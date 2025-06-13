@@ -63,11 +63,12 @@ pip install scikit-learn
 The ``./Results_in_paper`` directory contains code to reproduce all results reported in our paper.
 Note: Update relevant paths during execution.
 
-### 3. Test data set
+### 3. Data set
 1. Test Data: Included in the ``./data`` directory.
-2. Training Data: Available at [XXX]. To retrain PBCNet2.0:
-    2.1 Download the data.
-    2.2 Preprocess SDF/PDB files into PKL format using ``./Graph2pickle.py`` for model compatibility.
+2. Training Data: Available at Zendo(https://zenodo.org/records/15656365). To retrain PBCNet2.0:
+
+   2.1 Download the data.
+   2.2 Preprocess SDF/PDB files into PKL format using ``./Graph2pickle.py`` for model compatibility.
 
 ### 4. Making prediction with PBCNet2.0
 See the ``./case/try.ipynb`` notebook for a step-by-step prediction example. Provide ligand (SDF) and protein (PDB) files to run predictions.
@@ -78,7 +79,7 @@ Execute ``./model_code/run_finetune.sh`` to fine-tune PBCNet2.0 using the FEP da
 Custom Data: Replace paths in relevant files to use your own data.
 
 ### 6. Retraining the PBNCet2.0
-1. Download training data and input file ``training_clip_862W.zip`` from [XXX] and convert SDF/PDB files to PKL format using ``./Graph2pickle.py``.
+1. Download training data and input file ``training_clip_862W.zip`` from Zendo(https://zenodo.org/records/15656365) and convert SDF/PDB files to PKL format using ``./Graph2pickle.py``.
 
 2. Run ``./model_code/run_train.sh``.。
 
