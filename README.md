@@ -2,7 +2,9 @@
 Implementation of PBCNet2.0, by Jie Yu and Xia Shen.
 
 This repository contains all code, instructions and model weights necessary to make predictions of relative binding affinity by PBCNet2.0, eval PBCNet2.0 or to retrain a new model.
-![Figure1_模型框架 v4_页面_2](https://github.com/user-attachments/assets/664f59ec-792d-404b-aa3b-b15b5ce451f8)
+![image](https://github.com/user-attachments/assets/270d9a49-93ff-47e0-b027-c09ff17943c2)
+
+
 
 
 ### 0. Environment
@@ -76,7 +78,7 @@ Execute ``./model_code/run_finetune.sh`` to fine-tune PBCNet2.0 using the FEP da
 Custom Data: Replace paths in relevant files to use your own data.
 
 ### 6. Retraining the PBNCet2.0
-1. Download training data and input file ``training_clip_862W.csv`` from [XXX] and convert SDF/PDB files to PKL format using ``./Graph2pickle.py``.
+1. Download training data and input file ``training_clip_862W.zip`` from [XXX] and convert SDF/PDB files to PKL format using ``./Graph2pickle.py``.
 
 2. Run ``./model_code/run_train.sh``.。
 
