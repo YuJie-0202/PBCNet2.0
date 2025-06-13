@@ -1,0 +1,190 @@
+lig38
+                    3D
+ Schrodinger Suite 2023-4.
+ 31 33  0  0  1  0            999 V2000
+   41.7625  -29.4760  -20.1383 C   0  0  0  0  0  0
+   41.0504  -29.3622  -18.7878 C   0  0  2  0  0  0
+   42.0806  -29.2678  -17.6193 C   0  0  0  0  0  0
+   42.6827  -30.5921  -17.3384 N   0  0  0  0  0  0
+   42.0169  -31.7721  -17.2921 C   0  0  0  0  0  0
+   42.5953  -32.7976  -16.9381 O   0  0  0  0  0  0
+   40.6517  -31.6217  -17.7452 C   0  0  0  0  0  0
+   39.6573  -32.5657  -17.6443 N   0  0  0  0  0  0
+   38.5196  -32.1560  -18.3082 C   0  0  0  0  0  0
+   37.2718  -32.7631  -18.4500 C   0  0  0  0  0  0
+   36.3280  -32.1021  -19.2358 C   0  0  0  0  0  0
+   36.5975  -30.8979  -19.8997 C   0  0  0  0  0  0
+   35.5162  -30.2693  -20.7632 C   0  0  0  0  0  0
+   35.7750  -29.0921  -21.3364 N   0  0  0  0  0  0
+   34.4265  -30.8124  -20.9384 O   0  0  0  0  0  0
+   37.8624  -30.2995  -19.7377 C   0  0  0  0  0  0
+   38.8282  -30.9078  -18.9176 C   0  0  0  0  0  0
+   40.1630  -30.5662  -18.5065 C   0  0  0  0  0  0
+   39.7942  -33.4393  -17.1544 H   0  0  0  0  0  0
+   41.0707  -29.7651  -20.9320 H   0  0  0  0  0  0
+   42.5534  -30.2267  -20.1147 H   0  0  0  0  0  0
+   42.2311  -28.5295  -20.4105 H   0  0  0  0  0  0
+   40.4510  -28.4498  -18.7842 H   0  0  0  0  0  0
+   42.8733  -28.5561  -17.8559 H   0  0  0  0  0  0
+   41.6047  -28.8919  -16.7154 H   0  0  0  0  0  0
+   43.6587  -30.6124  -17.0572 H   0  0  0  0  0  0
+   37.0404  -33.7099  -17.9805 H   0  0  0  0  0  0
+   35.3551  -32.5641  -19.3385 H   0  0  0  0  0  0
+   36.6572  -28.6244  -21.1989 H   0  0  0  0  0  0
+   35.0558  -28.6518  -21.8917 H   0  0  0  0  0  0
+   38.1090  -29.3654  -20.2183 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 20  1  0  0  0
+  1 21  1  0  0  0
+  1 22  1  0  0  0
+  2 18  1  0  0  0
+  2  3  1  0  0  0
+  2 23  1  0  0  0
+  3  4  1  0  0  0
+  3 24  1  0  0  0
+  3 25  1  0  0  0
+  4  5  1  0  0  0
+  4 26  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  7 18  2  0  0  0
+  7  8  1  0  0  0
+  8 19  1  0  0  0
+  8  9  1  0  0  0
+  9 17  1  0  0  0
+  9 10  2  0  0  0
+ 10 11  1  0  0  0
+ 10 27  1  0  0  0
+ 11 12  2  0  0  0
+ 11 28  1  0  0  0
+ 12 13  1  0  0  0
+ 12 16  1  0  0  0
+ 13 14  1  0  0  0
+ 13 15  2  0  0  0
+ 14 29  1  0  0  0
+ 14 30  1  0  0  0
+ 16 17  2  0  0  0
+ 16 31  1  0  0  0
+ 17 18  1  0  0  0
+M  END
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_lignum>
+41
+
+> <i_i_glide_posenum>
+393
+
+> <i_i_glide_rotatable_bonds>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_m_source_file_index>
+39
+
+> <i_f3d_flags>
+0
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <r_epik_Ionization_Penalty>
+0
+
+> <r_epik_Ionization_Penalty_Charging>
+0
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+-0
+
+> <r_i_docking_score>
+-9.16601
+
+> <r_i_glide_ecoul>
+-9.88595
+
+> <r_i_glide_eff_state_penalty>
+-0
+
+> <r_i_glide_einternal>
+0.00027285
+
+> <r_i_glide_emodel>
+-74.0143
+
+> <r_i_glide_energy>
+-48.7078
+
+> <r_i_glide_erotb>
+0
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_evdw>
+-38.8219
+
+> <r_i_glide_gscore>
+-9.16601
+
+> <r_i_glide_hbond>
+-0.538773
+
+> <r_i_glide_ligand_efficiency>
+-0.509223
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.35608
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.33454
+
+> <r_i_glide_lipo>
+-2.57887
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-2.62438
+
+> <r_lp_Energy>
+23.6711
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+Tz1DMVtOSF1bQ0gyXVtDQEBIXShbQ0gzXSljKGMxMiljM2MoW25IXTIpW2NIXVtjSF1jKFtjSF0zKUMoPU8pW05IMl0=
+
+> <s_i_glide_gridfile>
+Sries15708-001-gridgen
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <s_lp_Variant>
+lig38-1
+
+> <s_m_source_file>
+/home/user-home/yujie/0_PBCNetv2/data/0_0_high_sim/0_noncov/Sries15708/ligprep_input.csv
+
+$$$$

@@ -1,0 +1,2593 @@
+name,lig1,lig2,Label1,Label2,Label,dir_1,dir_2
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig0_.pkl,6.417,6.417,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig1_.pkl,6.417,6.815,-0.3980000000000006,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig2_.pkl,6.417,8.119,-1.702,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig3_.pkl,6.417,7.754,-1.3369999999999997,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig4_.pkl,6.417,6.424,-0.007000000000000561,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig5_.pkl,6.417,6.842,-0.4249999999999998,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig6_.pkl,6.417,6.38,0.03699999999999992,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig7_.pkl,6.417,7.562,-1.1450000000000005,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig0_.pkl,lig8_.pkl,6.417,6.438,-0.020999999999999908,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig0_.pkl,6.815,6.417,0.3980000000000006,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig1_.pkl,6.815,6.815,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig2_.pkl,6.815,8.119,-1.3039999999999994,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig3_.pkl,6.815,7.754,-0.9389999999999992,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig4_.pkl,6.815,6.424,0.391,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig5_.pkl,6.815,6.842,-0.026999999999999247,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig6_.pkl,6.815,6.38,0.4350000000000005,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig7_.pkl,6.815,7.562,-0.7469999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig1_.pkl,lig8_.pkl,6.815,6.438,0.37700000000000067,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig0_.pkl,8.119,6.417,1.702,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig1_.pkl,8.119,6.815,1.3039999999999994,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig2_.pkl,8.119,8.119,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig3_.pkl,8.119,7.754,0.3650000000000002,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig4_.pkl,8.119,6.424,1.6949999999999994,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig5_.pkl,8.119,6.842,1.2770000000000001,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig6_.pkl,8.119,6.38,1.7389999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig7_.pkl,8.119,7.562,0.5569999999999995,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig2_.pkl,lig8_.pkl,8.119,6.438,1.681,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig0_.pkl,7.754,6.417,1.3369999999999997,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig1_.pkl,7.754,6.815,0.9389999999999992,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig2_.pkl,7.754,8.119,-0.3650000000000002,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig3_.pkl,7.754,7.754,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig4_.pkl,7.754,6.424,1.3299999999999992,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig5_.pkl,7.754,6.842,0.9119999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig6_.pkl,7.754,6.38,1.3739999999999997,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig7_.pkl,7.754,7.562,0.19199999999999928,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig3_.pkl,lig8_.pkl,7.754,6.438,1.3159999999999998,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig0_.pkl,6.424,6.417,0.007000000000000561,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig1_.pkl,6.424,6.815,-0.391,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig2_.pkl,6.424,8.119,-1.6949999999999994,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig3_.pkl,6.424,7.754,-1.3299999999999992,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig4_.pkl,6.424,6.424,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig5_.pkl,6.424,6.842,-0.41799999999999926,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig6_.pkl,6.424,6.38,0.04400000000000048,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig7_.pkl,6.424,7.562,-1.138,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig4_.pkl,lig8_.pkl,6.424,6.438,-0.013999999999999346,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig0_.pkl,6.842,6.417,0.4249999999999998,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig1_.pkl,6.842,6.815,0.026999999999999247,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig2_.pkl,6.842,8.119,-1.2770000000000001,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig3_.pkl,6.842,7.754,-0.9119999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig4_.pkl,6.842,6.424,0.41799999999999926,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig5_.pkl,6.842,6.842,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig6_.pkl,6.842,6.38,0.46199999999999974,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig7_.pkl,6.842,7.562,-0.7200000000000006,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig5_.pkl,lig8_.pkl,6.842,6.438,0.4039999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig0_.pkl,6.38,6.417,-0.03699999999999992,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig1_.pkl,6.38,6.815,-0.4350000000000005,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig2_.pkl,6.38,8.119,-1.7389999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig3_.pkl,6.38,7.754,-1.3739999999999997,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig4_.pkl,6.38,6.424,-0.04400000000000048,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig5_.pkl,6.38,6.842,-0.46199999999999974,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig6_.pkl,6.38,6.38,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig7_.pkl,6.38,7.562,-1.1820000000000004,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig6_.pkl,lig8_.pkl,6.38,6.438,-0.05799999999999983,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig0_.pkl,7.562,6.417,1.1450000000000005,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig1_.pkl,7.562,6.815,0.7469999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig2_.pkl,7.562,8.119,-0.5569999999999995,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig3_.pkl,7.562,7.754,-0.19199999999999928,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig4_.pkl,7.562,6.424,1.138,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig5_.pkl,7.562,6.842,0.7200000000000006,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig6_.pkl,7.562,6.38,1.1820000000000004,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig7_.pkl,7.562,7.562,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig7_.pkl,lig8_.pkl,7.562,6.438,1.1240000000000006,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig0_.pkl,6.438,6.417,0.020999999999999908,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig0_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig1_.pkl,6.438,6.815,-0.37700000000000067,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig1_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig2_.pkl,6.438,8.119,-1.681,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig2_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig3_.pkl,6.438,7.754,-1.3159999999999998,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig3_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig4_.pkl,6.438,6.424,0.013999999999999346,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig4_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig5_.pkl,6.438,6.842,-0.4039999999999999,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig5_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig6_.pkl,6.438,6.38,0.05799999999999983,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig6_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig7_.pkl,6.438,7.562,-1.1240000000000006,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig7_.pkl
+"   Unnamed: 0  chembl_assay_id target_uniprot  \
+0           0          1687538         P00533   
+1           1          1687538         P00533   
+2           2          1687538         P00533   
+3           3          1687538         P00533   
+4           4          1687538         P00533   
+5           5          1687538         P00533   
+6           6          1687538         P00533   
+7           7          1687538         P00533   
+8           8          1687538         P00533   
+
+                                         core_smiles    r_group_smils  \
+0  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1ccc([*])cc1   
+1  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1ccc([*])cc1   
+2  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Cc1ccccc1[*]   
+3  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...     Fc1ccccc1[*]   
+4  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1ccc([*])cc1   
+5  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  Clc1cccc([*])c1   
+6  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...  COc1cccc([*])c1   
+7  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...    COc1ccccc1[*]   
+8  CCC(=O)N1CC[C@H](N2C(=O)N([*])Cc3cnc(Nc4ccc(N5...   Cc1cccc([*])c1   
+
+                                              smiles  Label  
+0  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(Cl)cc3)Cc3cnc(...  6.417  
+1  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(OC)cc3)Cc3cnc(...  6.815  
+2  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3C)Cc3cnc(Nc4...  8.119  
+3  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3F)Cc3cnc(Nc4...  7.754  
+4  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccc(C)cc3)Cc3cnc(N...  6.424  
+5  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(Cl)c3)Cc3cnc(...  6.842  
+6  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC)c3)Cc3cnc(...  6.380  
+7  CCC(=O)N1CC[C@H](N2C(=O)N(c3ccccc3OC)Cc3cnc(Nc...  7.562  
+8  CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(C)c3)Cc3cnc(N...  6.438  ",lig8_.pkl,lig8_.pkl,6.438,6.438,0.0,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl,/home/user-home/yujie/0_PBCNetv2/data_BindingDB/2_two_seires/data_2series/Series0_2/pose/lig8_.pkl

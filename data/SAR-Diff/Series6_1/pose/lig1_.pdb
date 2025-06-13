@@ -1,0 +1,55 @@
+TITLE     lig18
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+HETATM    1  N1  UNK   900      19.170  56.865  20.169  1.00  0.00           N  
+HETATM    2  C1  UNK   900      19.417  57.872  19.281  1.00  0.00           C  
+HETATM    3  N2  UNK   900      18.496  58.549  18.644  1.00  0.00           N  
+HETATM    4  C2  UNK   900      18.992  59.504  17.870  1.00  0.00           C  
+HETATM    5  C3  UNK   900      18.087  60.320  17.057  1.00  0.00           C  
+HETATM    6  C4  UNK   900      18.199  61.527  16.373  1.00  0.00           C  
+HETATM    7  C5  UNK   900      16.964  61.781  15.769  1.00  0.00           C  
+HETATM    8  C6  UNK   900      16.136  60.726  16.121  1.00  0.00           C  
+HETATM    9  P1  UNK   900      14.404  60.349  15.769  1.00  0.00           P  
+HETATM   10  O1  UNK   900      13.603  61.661  15.856  1.00  0.00           O  
+HETATM   11  O2  UNK   900      14.370  59.750  14.345  1.00  0.00           O1-
+HETATM   12  O3  UNK   900      13.970  59.349  16.853  1.00  0.00           O1-
+HETATM   13  O4  UNK   900      16.825  59.843  16.887  1.00  0.00           O  
+HETATM   14  C7  UNK   900      20.390  59.595  17.903  1.00  0.00           C  
+HETATM   15 CL1  UNK   900      21.443  60.665  17.064  1.00  0.00          Cl  
+HETATM   16  S1  UNK   900      21.038  58.380  18.969  1.00  0.00           S  
+HETATM   17  H1  UNK   900      18.218  56.603  20.404  1.00  0.00           H  
+HETATM   18  H2  UNK   900      19.866  56.579  20.845  1.00  0.00           H  
+HETATM   19  H3  UNK   900      19.075  62.155  16.323  1.00  0.00           H  
+HETATM   20  H4  UNK   900      16.697  62.640  15.170  1.00  0.00           H  
+CONECT    1    2   17   18
+CONECT    2    1   16    3
+CONECT    2    3
+CONECT    3    2    4
+CONECT    3    2
+CONECT    4    3    5   14
+CONECT    4   14
+CONECT    5    4   13    6
+CONECT    5    6
+CONECT    6    5    7   19
+CONECT    6    5
+CONECT    7    6    8   20
+CONECT    7    8
+CONECT    8    7    9   13
+CONECT    8    7
+CONECT    9    8   10   11   12
+CONECT    9   10
+CONECT   10    9
+CONECT   10    9
+CONECT   11    9
+CONECT   12    9
+CONECT   13    5    8
+CONECT   14    4   15   16
+CONECT   14    4
+CONECT   15   14
+CONECT   16    2   14
+CONECT   17    1
+CONECT   18    1
+CONECT   19    6
+CONECT   20    7
+END   

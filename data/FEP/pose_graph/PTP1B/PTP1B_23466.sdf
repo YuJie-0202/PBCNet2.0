@@ -1,0 +1,183 @@
+PTP1B_23466
+                    3D
+ Schrodinger Suite 2020-3.
+ 29 30  0  0  1  0            999 V2000
+   48.7111    9.3770    1.5701 N   0  0  0  0  0  0
+   47.4615    9.9030    1.2513 C   0  0  0  0  0  0
+   46.4937    9.1030    0.6455 C   0  0  0  0  0  0
+   45.2392    9.6352    0.3465 C   0  0  0  0  0  0
+   44.9486   10.9617    0.6698 C   0  0  0  0  0  0
+   45.9150   11.7776    1.2738 C   0  0  0  0  0  0
+   45.6161   13.2020    1.6247 C   0  0  0  0  0  0
+   44.5756   14.1361    0.5828 S   0  0  0  0  0  0
+   44.7723   15.5728    1.5465 C   0  0  0  0  0  0
+   44.1119   16.8186    1.1405 C   0  0  0  0  0  0
+   44.1061   17.7769    1.9465 O   0  0  0  0  0  0
+   43.5985   16.8781    0.0032 O   0  5  0  0  0  0
+   45.5822   15.3059    2.6471 C   0  0  0  0  0  0
+   45.8705   16.2190    3.6182 O   0  0  0  0  0  0
+   47.1081   16.8964    3.4048 C   0  0  0  0  0  0
+   47.4487   17.6714    4.6845 C   0  0  0  0  0  0
+   48.5915   18.1769    4.7465 O   0  0  0  0  0  0
+   46.5793   17.7769    5.5848 O   0  5  0  0  0  0
+   46.0587   13.9862    2.6936 C   0  0  0  0  0  0
+   47.1983   13.3769    4.1001 Br  0  0  0  0  0  0
+   47.1757   11.2339    1.5497 C   0  0  0  0  0  0
+   48.7985    8.3719    1.5339 H   0  0  0  0  0  0
+   49.2571    9.9004    2.2441 H   0  0  0  0  0  0
+   46.7075    8.0713    0.4066 H   0  0  0  0  0  0
+   44.4890    9.0159   -0.1221 H   0  0  0  0  0  0
+   43.9659   11.3520    0.4487 H   0  0  0  0  0  0
+   47.0034   17.6016    2.5781 H   0  0  0  0  0  0
+   47.9172   16.2007    3.1701 H   0  0  0  0  0  0
+   47.9460   11.8449    1.9932 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 22  1  0  0  0
+  1 23  1  0  0  0
+  2 21  1  0  0  0
+  2  3  2  0  0  0
+  3  4  1  0  0  0
+  3 24  1  0  0  0
+  4  5  2  0  0  0
+  4 25  1  0  0  0
+  5  6  1  0  0  0
+  5 26  1  0  0  0
+  6  7  1  0  0  0
+  6 21  2  0  0  0
+  7 19  2  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+  9 13  2  0  0  0
+ 10 11  2  0  0  0
+ 10 12  1  0  0  0
+ 13 14  1  0  0  0
+ 13 19  1  0  0  0
+ 14 15  1  0  0  0
+ 15 16  1  0  0  0
+ 15 27  1  0  0  0
+ 15 28  1  0  0  0
+ 16 17  2  0  0  0
+ 16 18  1  0  0  0
+ 19 20  1  0  0  0
+ 21 29  1  0  0  0
+M  CHG  2  12  -1  18  -1
+M  END
+> <s_m_source_file>
+/home/user-home/yujie/0_PBCNetv2/data/FEP/PTP1B/inp_ligprep.csv
+
+> <i_m_source_file_index>
+18
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W05IMl1jMVtjSF1bY0hdW2NIXWMoW2NIXTEpLWMyc2MoQyg9TylbT0hdKWMoYzJCcilPW0NIMl1DKD1PKVtPSF0=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0006
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0005
+
+> <r_epik_State_Penalty>
+  0.0003
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000391615
+
+> <i_epik_Tot_Q>
+-2
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+30.888
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+PTP1B_23466-1
+
+> <s_i_glide_gridfile>
+PTP1B-001-gridgen
+
+> <i_i_glide_lignum>
+19
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <r_i_docking_score>
+-8.20923346058662
+
+> <r_i_glide_ligand_efficiency>
+-0.390915879075553
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.07850726861831
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.02971638481191
+
+> <r_i_glide_gscore>
+-8.20953291758662
+
+> <r_i_glide_lipo>
+-1.3162351066692
+
+> <r_i_glide_hbond>
+-1.1174733059039
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-0.947481019826134
+
+> <r_i_glide_evdw>
+-32.012809753418
+
+> <r_i_glide_ecoul>
+-23.8687076568604
+
+> <r_i_glide_erotb>
+0.422296957881789
+
+> <r_i_glide_esite>
+-0.0696938068692228
+
+> <r_i_glide_emodel>
+-108.430129853638
+
+> <r_i_glide_energy>
+-55.8815174102783
+
+> <r_i_glide_einternal>
+8.71619892120361
+
+> <i_i_glide_confnum>
+24
+
+> <i_i_glide_posenum>
+371
+
+> <r_i_glide_eff_state_penalty>
+0.000299457
+
+$$$$

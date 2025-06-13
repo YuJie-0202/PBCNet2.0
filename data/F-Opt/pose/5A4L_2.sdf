@@ -1,0 +1,205 @@
+5A4L_ligand
+                    3D
+ Schrodinger Suite 2023-4.
+ 21 22  0  0  1  0            999 V2000
+   42.9765   -2.5751  -26.0593 N   0  0  0  0  0  0
+   43.5754   -3.5875  -25.3209 C   0  0  0  0  0  0
+   44.9318   -3.6474  -24.9279 C   0  0  0  0  0  0
+   45.4348   -4.7522  -24.2127 C   0  0  0  0  0  0
+   44.5811   -5.8224  -23.8803 C   0  0  0  0  0  0
+   43.2175   -5.7693  -24.2219 C   0  0  0  0  0  0
+   42.7188   -4.6616  -24.9325 C   0  0  0  0  0  0
+   41.0718   -4.3344  -25.4763 S   0  0  0  0  0  0
+   41.6826   -2.8509  -26.2328 C   0  0  0  0  0  0
+   40.9470   -1.9260  -27.0045 N   0  0  0  0  0  0
+   39.6397   -1.9293  -27.3096 C   0  0  0  0  0  0
+   38.8299   -2.7836  -26.9579 O   0  0  0  0  0  0
+   39.1737   -0.7520  -28.1551 C   0  0  0  0  0  0
+   45.5975   -2.8401  -25.2032 H   0  0  0  0  0  0
+   44.9696   -6.6810  -23.3503 H   0  0  0  0  0  0
+   42.5632   -6.5769  -23.9393 H   0  0  0  0  0  0
+   41.4865   -1.1565  -27.3730 H   0  0  0  0  0  0
+   39.4425    0.1894  -27.6771 H   0  0  0  0  0  0
+   38.0898   -0.7627  -28.2928 H   0  0  0  0  0  0
+   39.6371   -0.7711  -29.1431 H   0  0  0  0  0  0
+   46.4813   -4.7823  -23.9399 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  9  2  0  0  0
+  2  3  2  0  0  0
+  2  7  1  0  0  0
+  3  4  1  0  0  0
+  3 14  1  0  0  0
+  4  5  2  0  0  0
+  4 21  1  0  0  0
+  5  6  1  0  0  0
+  5 15  1  0  0  0
+  6  7  2  0  0  0
+  6 16  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 10 17  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 13 18  1  0  0  0
+ 13 19  1  0  0  0
+ 13 20  1  0  0  0
+M  END
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_posenum>
+394
+
+> <i_i_glide_rotatable_bonds>
+2
+
+> <i_lp_mmshare_version>
+64132
+
+> <i_m_source_file_index>
+1
+
+> <PDB EXPDTA TEMPERATURE>
+100
+
+> <Source File Index>
+1
+
+> <entry id>
+14
+
+> <i_f3d_flags>
+0
+
+> <prepared>
+1
+
+> <stars>
+0
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00724368
+
+> <r_epik_Ionization_Penalty>
+0.0053
+
+> <r_epik_Ionization_Penalty_Charging>
+0
+
+> <r_epik_Ionization_Penalty_Neutral>
+0.0053
+
+> <r_epik_State_Penalty>
+0.0072
+
+> <r_i_docking_score>
+-7.42892
+
+> <r_i_glide_ecoul>
+-2.94277
+
+> <r_i_glide_eff_state_penalty>
+0.00724368
+
+> <r_i_glide_einternal>
+0.918508
+
+> <r_i_glide_emodel>
+-47.6391
+
+> <r_i_glide_energy>
+-32.6573
+
+> <r_i_glide_erotb>
+0
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_evdw>
+-29.7145
+
+> <r_i_glide_gscore>
+-7.43616
+
+> <r_i_glide_hbond>
+-0.103076
+
+> <r_i_glide_ligand_efficiency>
+-0.571455
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.08388
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.34368
+
+> <r_i_glide_lipo>
+-2.41823
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-2.98771
+
+> <r_lp_Energy>
+6.92691
+
+> <PDB EXPDTA PH>
+6.8
+
+> <PDB RESOLUTION>
+2.73
+
+> <Potential Energy-S-OPLS>
+-6173.35
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+Tz1DKFtDSDNdKVtOSF1jKG4xKXNjKGMxMilbY0hdW2NIXVtjSF1bY0hdMg==
+
+> <s_i_glide_gridfile>
+glide-grid_5a4l
+
+> <s_lp_Force_Field>
+OPLS_2005
+
+> <s_lp_Variant>
+5A4L_ligand-1
+
+> <s_m_source_file>
+/home/user-home/yujie/0_PBCNetv2/data_BindingDB/F/docking/5A4L_ligand.sdf
+
+> <PDB EXPDTA>
+X-RAY DIFFRACTION
+
+> <PDB ID>
+5A4L
+
+> <PDB TITLE>
+DYRK1A IN COMPLEX WITH FLUORO BENZOTHIAZOLE FRAGMENT
+
+> <Source File>
+5a4l.pdb
+
+> <Source Path>
+C:\Users\yujie\Desktop\F
+
+$$$$

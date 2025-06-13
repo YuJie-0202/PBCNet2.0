@@ -1,0 +1,333 @@
+1CY
+                    3D
+ Schrodinger Suite 2024-1.
+ 32 33  0  0  1  0            999 V2000
+   27.3884  -27.0597    9.0848 N   0  0  0  0  0  0
+   27.9686  -25.8643    8.8485 C   0  0  0  0  0  0
+   28.8198  -25.7500    7.8213 N   0  3  0  0  0  0
+   29.2681  -26.7937    7.0438 C   0  0  0  0  0  0
+   28.8594  -28.0788    7.4053 N   0  0  0  0  0  0
+   27.5848  -28.2117    8.1676 C   0  0  0  0  0  0
+   27.7172  -24.7895    9.6092 N   0  0  0  0  0  0
+   30.0281  -26.3929    6.0921 N   0  0  0  0  0  0
+   27.5387  -29.4902    9.0345 C   0  0  0  0  0  0
+   26.3843  -28.2503    7.1902 C   0  0  0  0  0  0
+   29.3195  -29.2758    6.8141 C   0  0  0  0  0  0
+   28.8086  -29.7056    5.5699 C   0  0  0  0  0  0
+   29.2429  -30.9095    4.9846 C   0  0  0  0  0  0
+   30.2042  -31.7038    5.6350 C   0  0  0  0  0  0
+   30.7375  -31.2779    6.8695 C   0  0  0  0  0  0
+   30.3030  -30.0670    7.4525 C   0  0  0  0  0  0
+   30.7174  -33.1853    4.9056 Cl  0  0  0  0  0  0
+   30.1242  -25.3796    6.0947 H   0  0  0  0  0  0
+   28.1534  -23.9002    9.3593 H   0  0  0  0  0  0
+   28.3987  -29.5526    9.6933 H   0  0  0  0  0  0
+   26.6501  -29.5250    9.6644 H   0  0  0  0  0  0
+   27.5326  -30.3914    8.4217 H   0  0  0  0  0  0
+   26.3149  -27.3436    6.5853 H   0  0  0  0  0  0
+   26.4407  -29.0998    6.5086 H   0  0  0  0  0  0
+   25.4325  -28.3920    7.6938 H   0  0  0  0  0  0
+   28.0763  -29.1101    5.0486 H   0  0  0  0  0  0
+   28.8390  -31.2236    4.0343 H   0  0  0  0  0  0
+   31.4822  -31.8782    7.3730 H   0  0  0  0  0  0
+   30.7177  -29.7493    8.3977 H   0  0  0  0  0  0
+   27.0117  -24.7917   10.3308 H   0  0  0  0  0  0
+   26.7219  -27.1656    9.8352 H   0  0  0  0  0  0
+   29.1331  -24.8159    7.5618 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1 31  1  0  0  0
+  2  3  2  0  0  0
+  2  7  1  0  0  0
+  3  4  1  0  0  0
+  3 32  1  0  0  0
+  4  5  1  0  0  0
+  4  8  2  0  0  0
+  5  6  1  0  0  0
+  5 11  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  7 19  1  0  0  0
+  7 30  1  0  0  0
+  8 18  1  0  0  0
+  9 20  1  0  0  0
+  9 21  1  0  0  0
+  9 22  1  0  0  0
+ 10 23  1  0  0  0
+ 10 24  1  0  0  0
+ 10 25  1  0  0  0
+ 11 12  2  0  0  0
+ 11 16  1  0  0  0
+ 12 13  1  0  0  0
+ 12 26  1  0  0  0
+ 13 14  2  0  0  0
+ 13 27  1  0  0  0
+ 14 15  1  0  0  0
+ 14 17  1  0  0  0
+ 15 16  2  0  0  0
+ 15 28  1  0  0  0
+ 16 29  1  0  0  0
+M  CHG  1   3   1
+M  END
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <i_i_glide_confnum>
+2
+
+> <i_i_glide_lignum>
+2
+
+> <i_i_glide_posenum>
+389
+
+> <i_i_glide_rotatable_bonds>
+1
+
+> <i_lp_mmshare_version>
+65135
+
+> <i_m_Source_File_Index>
+1
+
+> <i_m_source_file_index>
+1
+
+> <i_m_stars>
+0
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <b_m_subgroup_collapsed>
+0
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_prepared>
+1
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.505082
+
+> <r_epik_Ionization_Penalty>
+0.0473
+
+> <r_epik_Ionization_Penalty_Charging>
+0.0473
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+0.4578
+
+> <r_i_Bend_Energy-S-OPLS>
+1075.04
+
+> <r_i_Dihedral_Energy-S-OPLS>
+1166.72
+
+> <r_i_El-14_Energy-S-OPLS>
+989.372
+
+> <r_i_Electrostatic_Energy-S-OPLS>
+-2973.45
+
+> <r_i_LJ-14_Energy-S-OPLS>
+2715.25
+
+> <r_i_Max_Derivative-S-OPLS>
+2.40366
+
+> <r_i_Potential_Energy-S-OPLS>
+-2083.24
+
+> <r_i_RMS_Derivative-S-OPLS>
+0.0991951
+
+> <r_i_Stretch_Energy-S-OPLS>
+258.056
+
+> <r_i_Van_der_Waals_Energy-S-OPLS>
+-5386.72
+
+> <r_i_docking_score>
+-7.16954
+
+> <r_i_glide_ecoul>
+-7.20021
+
+> <r_i_glide_eff_state_penalty>
+0.4578
+
+> <r_i_glide_einternal>
+0.139784
+
+> <r_i_glide_emodel>
+-51.9257
+
+> <r_i_glide_energy>
+-30.4593
+
+> <r_i_glide_erotb>
+0.192391
+
+> <r_i_glide_esite>
+-0.1
+
+> <r_i_glide_evdw>
+-23.2591
+
+> <r_i_glide_gscore>
+-7.62734
+
+> <r_i_glide_hbond>
+-0.56
+
+> <r_i_glide_ligand_efficiency>
+-0.421737
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.87037
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.08441
+
+> <r_i_glide_lipo>
+-1.93309
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-2.98365
+
+> <r_i_target_temperature>
+298
+
+> <r_lp_Energy>
+31.7796
+
+> <r_pdb_PDB_CRYST1_a>
+58.761
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_b>
+157.538
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_c>
+164.509
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <r_pdb_PDB_EXPDTA_PH>
+4.6
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_R>
+0.212
+
+> <r_pdb_PDB_RESOLUTION>
+2.6
+
+> <r_pdb_PDB_Rfree>
+0.258
+
+> <r_ppw_preprocess_pH>
+7.4
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+W0NIM11DMShbQ0gzXSlOPUMoW05IMl0pTj1DKFtOSDJdKU4xYzJbY0hdW2NIXWMoQ2wpW2NIXVtjSF0y
+
+> <s_i_glide_gridfile>
+glide-grid_A7UD81_A16C_S108T
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+1CY-2
+
+> <s_m_Source_File>
+glide-dock_SP_A7UD81_A16C_S108T_pv.maegz
+
+> <s_m_Source_Path>
+C:\Users\sheng xia\Documents\Schrodinger\glide-dock_SP_A7UD81_A16C_S108T
+
+> <s_m_entry_id>
+56
+
+> <s_m_entry_name>
+Structure29
+
+> <s_m_job_name>
+glide-dock_SP_A7UD81_A16C_S108T
+
+> <s_m_source_file>
+ligprep_1CY.maegz
+
+> <s_m_subgroup_title>
+glide-dock_SP_A7UD81_A16C_S108T_pv
+
+> <s_m_subgroupid>
+glide-dock_SP_A7UD81_A16C_S108T_pv
+
+> <s_pdb_PDB_CLASSIFICATION>
+OXIDOREDUCTASE, TRANSFERASE/INHIBITOR
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+12-NOV-11
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <s_pdb_PDB_ID>
+3UM8
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_TITLE>
+WILD-TYPE PLASMODIUM FALCIPARUM DHFR-TS COMPLEXED WITH CYCLOGUANIL AND NADPH
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <s_ppw_het_states>
+eJztklFrgzAUhf+K5FmKV73O7a+UEqRNOyHTkdjCEP/7bpK2R2GPe9te5OST5JxzubPSN+N8Pw5avWUNU8V5JqyzVxPIrEi++1kd3zt3MT4c9jXXdZ4VhzwLkiEbyBfIFvL1KbmAJMgSsoKEG8ON4cZwY7gx3JroJlqN7iR9VzVSg/IeMAG5SGiXim1ASE8onfqWqJ5a0xqEloSJbF0iCDUJg0rT2ILqCTgmZUS/AzzKKSmic0zKSMopGJIm0KAct49Hyzi9TzN0dvqS8VW7lkjiqA8zdVanH31ckHkR7I+jM3IYrtbKsR/Oo/aTWxGvR9dferkn8NxZb+TeT4u2mvz/ov25RSt2RUHtLy/aYVm+AYLlKMg=
+
+> <s_ppw_prepared_with_version>
+2024-1
+
+$$$$

@@ -1,0 +1,194 @@
+/home/yujie/leadopt/data/result/selection/HO1/lig_7g.sdf:1
+                    3D
+ Schrodinger Suite 2020-3.
+ 33 34  0  0  1  0            999 V2000
+  -24.7802  -10.8607    5.9419 O   0  0  0  0  0  0
+  -24.9904  -10.4068    7.0688 C   0  0  0  0  0  0
+  -25.1513  -11.3992    8.2366 C   0  0  0  0  0  0
+  -24.5620  -12.7077    7.9977 N   0  0  0  0  0  0
+  -25.2057  -13.8383    7.5072 C   0  0  0  0  0  0
+  -24.2721  -14.8674    7.4212 C   0  0  0  0  0  0
+  -23.0619  -14.3525    7.8554 N   0  3  0  0  0  0
+  -23.2392  -13.0335    8.2061 C   0  0  0  0  0  0
+  -25.0925   -9.0721    7.3059 N   0  0  0  0  0  0
+  -24.9720   -8.1008    6.2097 C   0  0  0  0  0  0
+  -25.5429   -8.4899    8.5819 C   0  0  0  0  0  0
+  -27.0561   -8.3545    8.6749 C   0  0  0  0  0  0
+  -27.6769   -7.2472    8.0960 C   0  0  0  0  0  0
+  -29.0618   -7.1342    8.1170 C   0  0  0  0  0  0
+  -29.8194   -8.1421    8.7073 C   0  0  0  0  0  0
+  -29.2071   -9.2142    9.3501 C   0  0  0  0  0  0
+  -27.8208   -9.3204    9.3363 C   0  0  0  0  0  0
+  -26.2132  -11.5412    8.4282 H   0  0  0  0  0  0
+  -24.6835  -11.0147    9.1403 H   0  0  0  0  0  0
+  -26.2578  -13.8050    7.2587 H   0  0  0  0  0  0
+  -24.3602  -15.8939    7.0906 H   0  0  0  0  0  0
+  -22.4823  -12.3606    8.5916 H   0  0  0  0  0  0
+  -24.3239   -7.2749    6.5050 H   0  0  0  0  0  0
+  -24.5480   -8.5318    5.3009 H   0  0  0  0  0  0
+  -25.9476   -7.6890    5.9522 H   0  0  0  0  0  0
+  -25.1742   -9.0455    9.4411 H   0  0  0  0  0  0
+  -25.1000   -7.4995    8.6954 H   0  0  0  0  0  0
+  -27.0851   -6.4950    7.6013 H   0  0  0  0  0  0
+  -29.5507   -6.2936    7.6465 H   0  0  0  0  0  0
+  -30.8989   -8.0955    8.6894 H   0  0  0  0  0  0
+  -29.8085   -9.9726    9.8307 H   0  0  0  0  0  0
+  -27.3617  -10.1729    9.8106 H   0  0  0  0  0  0
+  -22.1821  -14.8524    7.9062 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  9  1  0  0  0
+  3  4  1  0  0  0
+  3 18  1  0  0  0
+  3 19  1  0  0  0
+  4  8  1  0  0  0
+  4  5  1  0  0  0
+  5  6  2  0  0  0
+  5 20  1  0  0  0
+  6  7  1  0  0  0
+  6 21  1  0  0  0
+  7  8  2  0  0  0
+  7 33  1  0  0  0
+  8 22  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+ 10 23  1  0  0  0
+ 10 24  1  0  0  0
+ 10 25  1  0  0  0
+ 11 12  1  0  0  0
+ 11 26  1  0  0  0
+ 11 27  1  0  0  0
+ 12 17  1  0  0  0
+ 12 13  2  0  0  0
+ 13 14  1  0  0  0
+ 13 28  1  0  0  0
+ 14 15  2  0  0  0
+ 14 29  1  0  0  0
+ 15 16  1  0  0  0
+ 15 30  1  0  0  0
+ 16 17  2  0  0  0
+ 16 31  1  0  0  0
+ 17 32  1  0  0  0
+M  CHG  1   7   1
+M  END
+> <s_m_source_file>
+/home/yujie/leadopt/data/result/selection/HO1/lig_7g.sdf
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFuW2NIXVtjSF1uMVtDSDJdQyg9TylOKFtDSDNdKVtDSDJdYzJbY0hdW2NIXVtjSF1bY0hdW2NIXTI=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.6010
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.6010
+
+> <r_epik_State_Penalty>
+  0.6154
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.615415
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+22.7805
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/HO1/lig_7g.sdf:1-2
+
+> <s_i_glide_gridfile>
+glide-grid_HO1
+
+> <i_i_glide_lignum>
+2
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <r_i_docking_score>
+-4.07164856507158
+
+> <r_i_glide_ligand_efficiency>
+-0.239508739121858
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.615844411124193
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.06220243947159
+
+> <r_i_glide_gscore>
+-4.68706356507158
+
+> <r_i_glide_lipo>
+-1.73452238961071
+
+> <r_i_glide_hbond>
+0
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-2.24116780777054
+
+> <r_i_glide_evdw>
+-21.5179309844971
+
+> <r_i_glide_ecoul>
+-3.7176365852356
+
+> <r_i_glide_erotb>
+0.966341853218337
+
+> <r_i_glide_esite>
+-0.0441731838984809
+
+> <r_i_glide_emodel>
+-34.1880262111225
+
+> <r_i_glide_energy>
+-25.2355675697327
+
+> <r_i_glide_einternal>
+5.47179555892944
+
+> <i_i_glide_confnum>
+8
+
+> <i_i_glide_posenum>
+327
+
+> <r_i_glide_eff_state_penalty>
+0.615415
+
+$$$$

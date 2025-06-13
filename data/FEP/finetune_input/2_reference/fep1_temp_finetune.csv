@@ -1,0 +1,2 @@
+file_name,again_number,reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+PTP1B,0,1,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_23483.pkl,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_23472.pkl,0.8977307765015388,7.262789150877221,6.365058374375682,3,14,14,23483,23472

@@ -1,0 +1,224 @@
+/home/yujie/leadopt/data/result/selection/AAK1/lig_(R)-11.sdf:1
+                    3D
+ Schrodinger Suite 2020-3.
+ 46 48  0  0  1  0            999 V2000
+    6.5989   40.3887  -29.5386 C   0  0  0  0  0  0
+    5.8009   41.1242  -30.6281 C   0  0  0  0  0  0
+    4.5141   40.4007  -31.0175 C   0  0  0  0  0  0
+    4.5901   39.6500  -32.1416 N   0  0  0  0  0  0
+    3.4465   39.0213  -32.5110 C   0  0  0  0  0  0
+    2.2550   39.0442  -31.8598 N   0  0  0  0  0  0
+    2.1973   39.7866  -30.7182 C   0  0  0  0  0  0
+    0.9799   39.8376  -29.9986 C   0  0  0  0  0  0
+    0.8903   40.5898  -28.8296 C   0  0  0  0  0  0
+    1.9846   41.3128  -28.3535 C   0  0  0  0  0  0
+    3.1976   41.2812  -29.0453 C   0  0  0  0  0  0
+    3.3290   40.5158  -30.2327 C   0  0  0  0  0  0
+    1.8638   42.1156  -27.1051 C   0  0  0  0  0  0
+    0.9406   42.1994  -26.0737 C   0  0  0  0  0  0
+    1.3285   43.0739  -25.1655 N   0  0  0  0  0  0
+    2.4733   43.5252  -25.6168 C   0  0  0  0  0  0
+    2.8607   42.9862  -26.7981 O   0  0  0  0  0  0
+    3.5038   38.1920  -33.7879 C   0  0  2  0  0  0
+    4.3498   36.9309  -33.5613 N   0  3  0  0  0  0
+    4.0714   38.9519  -35.0200 C   0  0  0  0  0  0
+    3.3695   40.2931  -35.3666 C   0  0  0  0  0  0
+    1.8693   40.1219  -35.6608 C   0  0  0  0  0  0
+    4.0738   41.0114  -36.5341 C   0  0  0  0  0  0
+    2.5174   37.7814  -34.0160 H   0  0  0  0  0  0
+    7.5015   40.9391  -29.2719 H   0  0  0  0  0  0
+    6.0133   40.2513  -28.6295 H   0  0  0  0  0  0
+    6.9103   39.4015  -29.8831 H   0  0  0  0  0  0
+    6.4370   41.2358  -31.5090 H   0  0  0  0  0  0
+    5.5721   42.1434  -30.3158 H   0  0  0  0  0  0
+    0.1235   39.2869  -30.3611 H   0  0  0  0  0  0
+   -0.0480   40.6169  -28.2954 H   0  0  0  0  0  0
+    4.0473   41.8303  -28.6697 H   0  0  0  0  0  0
+    0.0236   41.6414  -25.9729 H   0  0  0  0  0  0
+    3.1390   44.2545  -25.1816 H   0  0  0  0  0  0
+    3.9796   36.4040  -32.7793 H   0  0  0  0  0  0
+    4.3337   36.3321  -34.3765 H   0  0  0  0  0  0
+    4.0300   38.2988  -35.8929 H   0  0  0  0  0  0
+    5.1312   39.1541  -34.8553 H   0  0  0  0  0  0
+    3.4580   40.9522  -34.5008 H   0  0  0  0  0  0
+    1.7007   39.3942  -36.4538 H   0  0  0  0  0  0
+    1.4134   41.0612  -35.9744 H   0  0  0  0  0  0
+    1.3304   39.7892  -34.7721 H   0  0  0  0  0  0
+    4.0064   40.4411  -37.4620 H   0  0  0  0  0  0
+    3.6292   41.9911  -36.7208 H   0  0  0  0  0  0
+    5.1313   41.1777  -36.3233 H   0  0  0  0  0  0
+    5.3041   37.1875  -33.3441 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 25  1  0  0  0
+  1 26  1  0  0  0
+  1 27  1  0  0  0
+  2  3  1  0  0  0
+  2 28  1  0  0  0
+  2 29  1  0  0  0
+  3 12  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  5  6  2  0  0  0
+  5 18  1  0  0  0
+  6  7  1  0  0  0
+  7 12  1  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+  8 30  1  0  0  0
+  9 10  2  0  0  0
+  9 31  1  0  0  0
+ 10 11  1  0  0  0
+ 10 13  1  0  0  0
+ 11 12  2  0  0  0
+ 11 32  1  0  0  0
+ 13 17  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 33  1  0  0  0
+ 15 16  2  0  0  0
+ 16 17  1  0  0  0
+ 16 34  1  0  0  0
+ 18 24  1  0  0  0
+ 18 19  1  0  0  0
+ 18 20  1  0  0  0
+ 19 35  1  0  0  0
+ 19 36  1  0  0  0
+ 19 46  1  0  0  0
+ 20 21  1  0  0  0
+ 20 37  1  0  0  0
+ 20 38  1  0  0  0
+ 21 22  1  0  0  0
+ 21 23  1  0  0  0
+ 21 39  1  0  0  0
+ 22 40  1  0  0  0
+ 22 41  1  0  0  0
+ 22 42  1  0  0  0
+ 23 43  1  0  0  0
+ 23 44  1  0  0  0
+ 23 45  1  0  0  0
+M  CHG  1  19   1
+M  END
+> <s_m_source_file>
+/home/yujie/leadopt/data/result/selection/AAK1/lig_(R)-11.sdf
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIM11bQ0hdKFtDSDNdKVtDSDJdW0NAQEhdKFtOSDJdKWMobjEpbmMoW0NIMl1bQ0gzXSljKGMxMilbY0hdYyhbY0hdW2NIXTIpLWMzW2NIXW5bY0hdbzM=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0744
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0744
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0655
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.139902
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound contains an electron-poor aromatic ring that is susceptible to covalent hydrolysis at low pH, typically resulting in measured values for nitrogen ring protonation that are around two units higher than predicted values.
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+27.2878
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/AAK1/lig_(R)-11.sdf:1-1
+
+> <s_i_glide_gridfile>
+glide-grid_AAK1
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <r_i_docking_score>
+-7.01206510777548
+
+> <r_i_glide_ligand_efficiency>
+-0.304872395990238
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.867016539118694
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.6955809249512
+
+> <r_i_glide_gscore>
+-7.07757030777548
+
+> <r_i_glide_lipo>
+-2.97322069867849
+
+> <r_i_glide_hbond>
+-0.202193550735144
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-2.1823183838533
+
+> <r_i_glide_evdw>
+-36.6543807983398
+
+> <r_i_glide_ecoul>
+-2.80262184143066
+
+> <r_i_glide_erotb>
+0.57372128712774
+
+> <r_i_glide_esite>
+-0.040446645504688
+
+> <r_i_glide_emodel>
+-59.2465265530592
+
+> <r_i_glide_energy>
+-39.4570026397705
+
+> <r_i_glide_einternal>
+2.01432180404663
+
+> <i_i_glide_confnum>
+3
+
+> <i_i_glide_posenum>
+123
+
+> <r_i_glide_eff_state_penalty>
+0.0655052
+
+$$$$

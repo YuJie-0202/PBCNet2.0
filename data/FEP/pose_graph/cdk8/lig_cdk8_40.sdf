@@ -1,0 +1,277 @@
+lig_cdk8_40
+                    3D
+ Schrodinger Suite 2023-4.
+ 54 58  0  0  1  0            999 V2000
+    1.3353   12.3948   -5.6571 C   0  0  0  0  0  0
+   -0.0874   12.5256   -5.8725 N   0  0  0  0  0  0
+   -0.9432   11.6781   -6.5477 C   0  0  0  0  0  0
+   -2.1921   12.2161   -6.4224 C   0  0  0  0  0  0
+   -3.4715   11.6599   -6.9051 C   0  0  0  0  0  0
+   -3.5035   10.4423   -7.6232 C   0  0  0  0  0  0
+   -4.7239    9.8713   -8.0272 C   0  0  0  0  0  0
+   -5.9402   10.5221   -7.7491 C   0  0  0  0  0  0
+   -7.2600    9.8827   -8.1533 C   0  0  0  0  0  0
+   -7.4892    9.7752   -9.6376 C   0  0  0  0  0  0
+   -8.1892    8.7690  -10.1191 N   0  0  0  0  0  0
+   -8.2871    8.9826  -11.4539 N   0  0  0  0  0  0
+   -7.6486   10.1331  -11.8818 C   0  0  0  0  0  0
+   -7.5122   10.7641  -13.1327 C   0  0  0  0  0  0
+   -6.7269   11.9287  -13.2329 C   0  0  0  0  0  0
+   -6.0829   12.4516  -12.0914 C   0  0  0  0  0  0
+   -5.2206   13.6781  -12.2217 C   0  0  0  0  0  0
+   -5.7180   14.7021  -12.6922 O   0  0  0  0  0  0
+   -3.9333   13.6027  -11.8037 N   0  0  0  0  0  0
+   -3.0755   14.7856  -11.6463 C   0  0  0  0  0  0
+   -2.3862   14.7538  -10.2691 C   0  0  0  0  0  0
+   -1.6037   13.5362  -10.1235 N   0  0  0  0  0  0
+   -2.4856   12.3843  -10.2342 C   0  0  0  0  0  0
+   -3.1620   12.3640  -11.6183 C   0  0  0  0  0  0
+   -6.2895   11.8382  -10.8306 C   0  0  0  0  0  0
+   -7.0715   10.6630  -10.6968 C   0  0  0  0  0  0
+   -5.9206   11.7503   -7.0594 C   0  0  0  0  0  0
+   -4.6995   12.3107   -6.6396 C   0  0  0  0  0  0
+   -2.0055   13.4124   -5.6738 C   0  0  0  0  0  0
+   -0.7365   13.5900   -5.3420 N   0  0  0  0  0  0
+    1.7212   11.5561   -6.2350 H   0  0  0  0  0  0
+    1.8441   13.3050   -5.9736 H   0  0  0  0  0  0
+    1.5343   12.2180   -4.6002 H   0  0  0  0  0  0
+   -0.5993   10.7662   -7.0200 H   0  0  0  0  0  0
+   -2.5882    9.9139   -7.8467 H   0  0  0  0  0  0
+   -4.7261    8.9243   -8.5483 H   0  0  0  0  0  0
+   -8.0799   10.4411   -7.7001 H   0  0  0  0  0  0
+   -7.2940    8.8951   -7.6931 H   0  0  0  0  0  0
+   -8.8087    8.3318  -12.0278 H   0  0  0  0  0  0
+   -7.9956   10.3642  -14.0141 H   0  0  0  0  0  0
+   -6.6053   12.4094  -14.1922 H   0  0  0  0  0  0
+   -3.6305   15.7180  -11.7571 H   0  0  0  0  0  0
+   -2.3165   14.7839  -12.4240 H   0  0  0  0  0  0
+   -1.6947   15.5872  -10.1796 H   0  0  0  0  0  0
+   -3.1184   14.8374   -9.4625 H   0  0  0  0  0  0
+   -0.9153   13.4975  -10.8671 H   0  0  0  0  0  0
+   -1.8888   11.4880  -10.0748 H   0  0  0  0  0  0
+   -3.2400   12.4259   -9.4497 H   0  0  0  0  0  0
+   -2.4040   12.2937  -12.4018 H   0  0  0  0  0  0
+   -3.7605   11.4573  -11.7095 H   0  0  0  0  0  0
+   -5.8242   12.2612   -9.9494 H   0  0  0  0  0  0
+   -6.8429   12.2638   -6.8311 H   0  0  0  0  0  0
+   -4.7185   13.2442   -6.0964 H   0  0  0  0  0  0
+   -2.7335   14.1368   -5.3425 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 31  1  0  0  0
+  1 32  1  0  0  0
+  1 33  1  0  0  0
+  2 30  1  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  3 34  1  0  0  0
+  4  5  1  0  0  0
+  4 29  1  0  0  0
+  5 28  1  0  0  0
+  5  6  2  0  0  0
+  6  7  1  0  0  0
+  6 35  1  0  0  0
+  7  8  2  0  0  0
+  7 36  1  0  0  0
+  8  9  1  0  0  0
+  8 27  1  0  0  0
+  9 10  1  0  0  0
+  9 37  1  0  0  0
+  9 38  1  0  0  0
+ 10 26  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  1  0  0  0
+ 12 13  1  0  0  0
+ 12 39  1  0  0  0
+ 13 26  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 40  1  0  0  0
+ 15 16  2  0  0  0
+ 15 41  1  0  0  0
+ 16 17  1  0  0  0
+ 16 25  1  0  0  0
+ 17 18  2  0  0  0
+ 17 19  1  0  0  0
+ 19 24  1  0  0  0
+ 19 20  1  0  0  0
+ 20 21  1  0  0  0
+ 20 42  1  0  0  0
+ 20 43  1  0  0  0
+ 21 22  1  0  0  0
+ 21 44  1  0  0  0
+ 21 45  1  0  0  0
+ 22 23  1  0  0  0
+ 22 46  1  0  0  0
+ 23 24  1  0  0  0
+ 23 47  1  0  0  0
+ 23 48  1  0  0  0
+ 24 49  1  0  0  0
+ 24 50  1  0  0  0
+ 25 26  2  0  0  0
+ 25 51  1  0  0  0
+ 27 28  2  0  0  0
+ 27 52  1  0  0  0
+ 28 53  1  0  0  0
+ 29 30  2  0  0  0
+ 29 54  1  0  0  0
+M  END
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <i_i_glide_confnum>
+189
+
+> <i_i_glide_lignum>
+30
+
+> <i_i_glide_posenum>
+339
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <i_lp_mmshare_version>
+65135
+
+> <i_m_Source_File_Index>
+14
+
+> <i_m_source_file_index>
+14
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_canvas_pIC50s>
+8.15
+
+> <r_epik_Charging_Adjusted_Penalty>
+1.48098
+
+> <r_epik_Ionization_Penalty>
+1.4694
+
+> <r_epik_Ionization_Penalty_Charging>
+0
+
+> <r_epik_Ionization_Penalty_Neutral>
+1.4694
+
+> <r_epik_State_Penalty>
+1.481
+
+> <r_i_docking_score>
+-8.56434
+
+> <r_i_glide_ecoul>
+-5.20499
+
+> <r_i_glide_eff_state_penalty>
+1.481
+
+> <r_i_glide_einternal>
+2.29779
+
+> <r_i_glide_emodel>
+-93.4445
+
+> <r_i_glide_energy>
+-58.2619
+
+> <r_i_glide_erotb>
+0.427833
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_evdw>
+-53.0569
+
+> <r_i_glide_gscore>
+-10.0453
+
+> <r_i_glide_hbond>
+-0.354818
+
+> <r_i_glide_ligand_efficiency>
+-0.285478
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.94591
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.887047
+
+> <r_i_glide_lipo>
+-4.29127
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-2.39349
+
+> <r_lp_Energy>
+49.8344
+
+> <r_lp_tautomer_probability>
+0.980392
+
+> <s_canvas_SMILES>
+Cn1cc(-c2ccc(Cc3n[nH]c4ccc(C(=O)N5CCNCC5)cc34)cc2)cn1
+
+> <s_canvas_chembl\_ids>
+CHEMBL5719
+
+> <s_canvas_dirnames>
+test_set_fep+
+
+> <s_canvas_pdb\_ids>
+5HNB
+
+> <s_canvas_protein\_names>
+cdk8
+
+> <s_canvas_uniprot\_ids>
+P49336
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+W0NIM11uMVtjSF1jKFtjSF1uMSktYzJbY0hdW2NIXWMoW2NIXVtjSF0yKVtDSDJdYyhuW25IXTMpYyhjMzQpW2NIXWMoW2NIXVtjSF00KUMoPU8pTjVbQ0gyXVtDSDJdW05IXVtDSDJdW0NIMl01
+
+> <s_i_glide_gridfile>
+cdk8-001-gridgen
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+lig_cdk8_40-2
+
+> <s_m_Source_File>
+ligprep_cdk8-out.maegz
+
+> <s_m_Source_Path>
+C:\Users\yujie\Desktop\FEP\ligprep_cdk8
+
+> <s_m_entry_id>
+13755
+
+> <s_m_entry_name>
+label.14
+
+> <s_m_job_name>
+ligprep_cdk8
+
+> <s_m_source_file>
+ligprep_cdk8.maegz
+
+$$$$

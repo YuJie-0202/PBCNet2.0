@@ -1,0 +1,274 @@
+UMP
+                    3D
+ Schrodinger Suite 2024-1.
+ 31 32  0  0  1  0            999 V2000
+   19.1853   47.0910  -53.5672 N   0  0  0  0  0  0
+   20.5492   47.2283  -53.9199 C   0  0  0  0  0  0
+   21.4697   46.3958  -53.2794 N   0  0  0  0  0  0
+   21.1532   45.4224  -52.3305 C   0  0  0  0  0  0
+   19.7361   45.3265  -52.0181 C   0  0  0  0  0  0
+   18.8335   46.1131  -52.6429 C   0  0  0  0  0  0
+   20.9395   48.0426  -54.7547 O   0  0  0  0  0  0
+   22.0283   44.7151  -51.8376 O   0  0  0  0  0  0
+   18.1686   47.9475  -54.3084 C   0  0  2  0  0  0
+   16.7600   47.9501  -53.6829 C   0  0  0  0  0  0
+   16.0699   46.8982  -54.5347 C   0  0  2  0  0  0
+   16.6570   47.2016  -55.9166 C   0  0  2  0  0  0
+   14.6594   46.9265  -54.4590 O   0  0  0  0  0  0
+   18.0326   47.4271  -55.6045 O   0  0  0  0  0  0
+   16.1004   48.4679  -56.6139 C   0  0  0  0  0  0
+   15.4112   48.1264  -57.8057 O   0  0  0  0  0  0
+   15.3884   49.3071  -58.9286 P   0  0  0  0  0  0
+   14.4281   48.8007  -59.9830 O   0  0  0  0  0  0
+   16.8013   49.4789  -59.4366 O   0  5  0  0  0  0
+   14.8281   50.5348  -58.2365 O   0  5  0  0  0  0
+   22.4485   46.4922  -53.5509 H   0  0  0  0  0  0
+   19.4026   44.5928  -51.2980 H   0  0  0  0  0  0
+   17.8060   45.9319  -52.3759 H   0  0  0  0  0  0
+   18.5952   48.9528  -54.3277 H   0  0  0  0  0  0
+   16.3169   48.9321  -53.8504 H   0  0  0  0  0  0
+   16.7482   47.7843  -52.6072 H   0  0  0  0  0  0
+   16.3934   45.9029  -54.2291 H   0  0  0  0  0  0
+   16.5756   46.3415  -56.5822 H   0  0  0  0  0  0
+   14.3440   47.7368  -54.8338 H   0  0  0  0  0  0
+   16.9286   49.1424  -56.8422 H   0  0  0  0  0  0
+   15.4233   49.0325  -55.9731 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1  9  1  0  0  0
+  2  3  1  0  0  0
+  2  7  2  0  0  0
+  3  4  1  0  0  0
+  3 21  1  0  0  0
+  4  5  1  0  0  0
+  4  8  2  0  0  0
+  5  6  2  0  0  0
+  5 22  1  0  0  0
+  6 23  1  0  0  0
+  9 10  1  0  0  0
+  9 14  1  0  0  0
+  9 24  1  0  0  0
+ 10 11  1  0  0  0
+ 10 25  1  0  0  0
+ 10 26  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  1  0  0  0
+ 11 27  1  0  0  0
+ 12 14  1  0  0  0
+ 12 15  1  0  0  0
+ 12 28  1  0  0  0
+ 13 29  1  0  0  0
+ 15 16  1  0  0  0
+ 15 30  1  0  0  0
+ 15 31  1  0  0  0
+ 16 17  1  0  0  0
+ 17 18  2  0  0  0
+ 17 19  1  0  0  0
+ 17 20  1  0  0  0
+M  CHG  2  19  -1  20  -1
+M  END
+> <i_epik_Tot_Q>
+-2
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <i_f3d_flags>
+0
+
+> <i_i_glide_confnum>
+66
+
+> <i_i_glide_lignum>
+3
+
+> <i_i_glide_posenum>
+303
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <i_lp_mmshare_version>
+65135
+
+> <i_m_Source_File_Index>
+1
+
+> <i_m_source_file_index>
+1
+
+> <i_m_stars>
+0
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <b_m_subgroup_collapsed>
+0
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_prepared>
+1
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.219387
+
+> <r_epik_Ionization_Penalty>
+0.1102
+
+> <r_epik_Ionization_Penalty_Charging>
+0.1102
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+0.1092
+
+> <r_i_Bend_Energy-S-OPLS>
+753.877
+
+> <r_i_Dihedral_Energy-S-OPLS>
+780.941
+
+> <r_i_El-14_Energy-S-OPLS>
+584.283
+
+> <r_i_Electrostatic_Energy-S-OPLS>
+-1722.46
+
+> <r_i_LJ-14_Energy-S-OPLS>
+1569.01
+
+> <r_i_Max_Derivative-S-OPLS>
+3.0871
+
+> <r_i_Potential_Energy-S-OPLS>
+-760.827
+
+> <r_i_RMS_Derivative-S-OPLS>
+0.120057
+
+> <r_i_Stretch_Energy-S-OPLS>
+144.502
+
+> <r_i_Van_der_Waals_Energy-S-OPLS>
+-3001.73
+
+> <r_i_docking_score>
+-6.99544
+
+> <r_i_glide_ecoul>
+-18.5153
+
+> <r_i_glide_eff_state_penalty>
+0.1092
+
+> <r_i_glide_einternal>
+8.26266
+
+> <r_i_glide_emodel>
+-71.5322
+
+> <r_i_glide_energy>
+-38.8927
+
+> <r_i_glide_erotb>
+0.591054
+
+> <r_i_glide_esite>
+-0.0988458
+
+> <r_i_glide_evdw>
+-20.3774
+
+> <r_i_glide_gscore>
+-7.10464
+
+> <r_i_glide_hbond>
+-1.17804
+
+> <r_i_glide_ligand_efficiency>
+-0.349772
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.75073
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.949427
+
+> <r_i_glide_lipo>
+-0.483606
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-2.13904
+
+> <r_i_target_temperature>
+298
+
+> <r_lp_Energy>
+9.44254
+
+> <r_lp_tautomer_probability>
+0.999537
+
+> <r_ppw_preprocess_pH>
+7.4
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+W2NIXTFbY0hdYyg9TylbbkhdYyg9TyluMVtDQEBIXTJbQ0gyXVtDQEhdKFtPSF0pW0NASF0oTzIpW0NIMl1PUCg9TykoW09IXSlbT0hd
+
+> <s_i_glide_gridfile>
+glide-grid_P00469_MT_N229E
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+UMP-3
+
+> <s_m_Source_File>
+glide-dock_SP_P00469_MT_N229E_pv.maegz
+
+> <s_m_Source_Path>
+D:\project\glide-dock_SP_P00469_MT_N229E
+
+> <s_m_entry_id>
+20019
+
+> <s_m_entry_name>
+Structure19562
+
+> <s_m_job_name>
+glide-dock_SP_P00469_MT_N229E
+
+> <s_m_source_file>
+ligprep_UMP.maegz
+
+> <s_m_subgroup_title>
+glide-dock_SP_P00469_MT_N229E_pv
+
+> <s_m_subgroupid>
+glide-dock_SP_P00469_MT_N229E_pv
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_ppw_het_states>
+eJztlF1qhDAYRbciebaSxMSfbmUYRKaZqZBqiU6hiHvvZ1J71cdSGCi+yMkxMcnl4siqD+P6pmsr9hxlWqQ6jsjV9m5mMzJBz9PILq+1u5l+HpykLnkc8XMczSiAEpgCFVADM2AOLIDlghnnQAGUwBSogBqYAXNgAfS7EbPOvVAgq3uGK4rvUwWh96KAEF7IvaATSMQUEhIIK+S0FTmWqGVbiaBCRmIlfBAC+YXoBFIMAW6FhBDbbyxCQSgvNIT2IoPIvPg5+iKK/Qx/9Dnwd9PWdvikxItEcU0T2ZsZaluFF40v3TiR7i+dMzRo79bSsGmvXdUPbmX6qnPNraF1JK+17Q2t+7/lfVoiLT0f9X1ofXnCtTra+6v2Hv/eB5dXJJrr9I/be56mL6456TY=
+
+> <s_ppw_prepared_with_version>
+2024-1
+
+$$$$

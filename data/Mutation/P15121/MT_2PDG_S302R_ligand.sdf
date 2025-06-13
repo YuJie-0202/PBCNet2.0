@@ -1,0 +1,286 @@
+47D
+                    3D
+ Schrodinger Suite 2024-1.
+ 32 34  0  0  1  0            999 V2000
+   17.2909   -4.7667   11.7005 C   0  0  0  0  0  0
+   18.3822   -5.2084   12.4615 N   0  0  0  0  0  0
+   17.9982   -6.1884   13.2980 C   0  0  0  0  0  0
+   18.9785   -6.9608   14.1523 C   0  0  0  0  0  0
+   18.3069   -7.6481   15.2486 N   0  0  0  0  0  0
+   17.9518   -6.8616   16.3620 C   0  0  0  0  0  0
+   18.3967   -5.7258   16.4966 O   0  0  0  0  0  0
+   17.0300   -7.4074   17.2775 N   0  0  0  0  0  0
+   16.6383   -6.5930   18.4035 C   0  0  0  0  0  0
+   15.3268   -5.8200   18.2104 C   0  0  0  0  0  0
+   14.8222   -5.3253   19.2453 O   0  5  0  0  0  0
+   14.8261   -5.7245   17.0639 O   0  0  0  0  0  0
+   16.5615   -8.6947   17.1003 C   0  0  0  0  0  0
+   16.9439   -9.4770   16.0661 C   0  0  0  0  0  0
+   17.8598   -8.9770   15.0454 C   0  0  0  0  0  0
+   18.1964   -9.6364   14.0621 O   0  0  0  0  0  0
+   16.2648   -6.5531   13.2826 S   0  0  0  0  0  0
+   16.0563   -5.4256   11.9706 C   0  0  0  0  0  0
+   14.8754   -5.1325   11.2706 C   0  0  0  0  0  0
+   14.8920   -4.1241   10.2974 C   0  0  0  0  0  0
+   16.0763   -3.4150   10.0432 C   0  0  0  0  0  0
+   16.0247   -2.1253    8.9042 Cl  0  0  0  0  0  0
+   17.2739   -3.7511   10.7123 C   0  0  0  0  0  0
+   19.7378   -6.3011   14.5752 H   0  0  0  0  0  0
+   19.5158   -7.6994   13.5592 H   0  0  0  0  0  0
+   17.4623   -5.9353   18.6852 H   0  0  0  0  0  0
+   16.5153   -7.2943   19.2287 H   0  0  0  0  0  0
+   15.8668   -9.0938   17.8240 H   0  0  0  0  0  0
+   16.5506  -10.4796   15.9800 H   0  0  0  0  0  0
+   13.9557   -5.6466   11.5091 H   0  0  0  0  0  0
+   13.9894   -3.8612    9.7680 H   0  0  0  0  0  0
+   18.1785   -3.2046   10.4972 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 18  1  0  0  0
+  1 23  2  0  0  0
+  2  3  2  0  0  0
+  3  4  1  0  0  0
+  3 17  1  0  0  0
+  4  5  1  0  0  0
+  4 24  1  0  0  0
+  4 25  1  0  0  0
+  5  6  1  0  0  0
+  5 15  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8  9  1  0  0  0
+  8 13  1  0  0  0
+  9 10  1  0  0  0
+  9 26  1  0  0  0
+  9 27  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  2  0  0  0
+ 13 14  2  0  0  0
+ 13 28  1  0  0  0
+ 14 15  1  0  0  0
+ 14 29  1  0  0  0
+ 15 16  2  0  0  0
+ 17 18  1  0  0  0
+ 18 19  2  0  0  0
+ 19 20  1  0  0  0
+ 19 30  1  0  0  0
+ 20 21  2  0  0  0
+ 20 31  1  0  0  0
+ 21 22  1  0  0  0
+ 21 23  1  0  0  0
+ 23 32  1  0  0  0
+M  CHG  1  11  -1
+M  END
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <i_i_glide_confnum>
+8
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_posenum>
+348
+
+> <i_i_glide_rotatable_bonds>
+4
+
+> <i_lp_mmshare_version>
+65135
+
+> <i_m_Source_File_Index>
+1
+
+> <i_m_source_file_index>
+1
+
+> <i_m_stars>
+0
+
+> <i_pdb_PDB_CRYST1_z>
+2
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <b_m_subgroup_collapsed>
+0
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00251622
+
+> <r_epik_Ionization_Penalty>
+0.0013
+
+> <r_epik_Ionization_Penalty_Charging>
+0.0013
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+0.0013
+
+> <r_i_docking_score>
+-13.0849
+
+> <r_i_glide_ecoul>
+-17.8377
+
+> <r_i_glide_eff_state_penalty>
+0.0013
+
+> <r_i_glide_einternal>
+9.03643
+
+> <r_i_glide_emodel>
+-114.776
+
+> <r_i_glide_energy>
+-61.7162
+
+> <r_i_glide_erotb>
+0.464876
+
+> <r_i_glide_esite>
+-0.0397056
+
+> <r_i_glide_evdw>
+-43.8786
+
+> <r_i_glide_gscore>
+-13.0862
+
+> <r_i_glide_hbond>
+-0.968906
+
+> <r_i_glide_ligand_efficiency>
+-0.568907
+
+> <r_i_glide_ligand_efficiency_ln>
+-3.16404
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.61789
+
+> <r_i_glide_lipo>
+-3.93138
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-3.74146
+
+> <r_lp_Energy>
+32.4588
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_pdb_PDB_CRYST1_a>
+49.287
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_b>
+66.919
+
+> <r_pdb_PDB_CRYST1_beta>
+92.72
+
+> <r_pdb_PDB_CRYST1_c>
+47.104
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <r_pdb_PDB_EXPDTA_PH>
+5
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_R>
+0.144
+
+> <r_pdb_PDB_RESOLUTION>
+1.42
+
+> <r_pdb_PDB_Rfree>
+0.295
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+Q2xjKFtjSF0xKVtjSF1bY0hdYyhjMTIpc2MobjIpW0NIMl1uM2MoPU8pbihbQ0gyXUMoPU8pW09IXSlbY0hdW2NIXWMzPU8=
+
+> <s_i_glide_gridfile>
+glide-grid_P15121_MT_S302R
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+47D-1
+
+> <s_m_Source_File>
+glide-dock_SP_P15121_MT_S302R_pv.maegz
+
+> <s_m_Source_Path>
+C:\Users\sheng xia\Documents\Schrodinger\glide-dock_SP_P15121_MT_S302R
+
+> <s_m_entry_id>
+124
+
+> <s_m_entry_name>
+Structure93
+
+> <s_m_job_name>
+glide-dock_SP_P15121_MT_S302R
+
+> <s_m_source_file>
+ligprep_47D.maegz
+
+> <s_m_subgroup_title>
+glide-dock_SP_P15121_MT_S302R_pv
+
+> <s_m_subgroupid>
+glide-dock_SP_P15121_MT_S302R_pv
+
+> <s_pdb_PDB_CLASSIFICATION>
+OXIDOREDUCTASE
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1 21 1
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+31-MAR-07
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <s_pdb_PDB_ID>
+2PDG
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_TITLE>
+HUMAN ALDOSE REDUCTASE WITH URACIL-TYPE INHIBITOR AT 1.42A.
+
+> <s_pdb_PDB_format_version>
+3.30
+
+$$$$

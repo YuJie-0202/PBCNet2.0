@@ -1,0 +1,98 @@
+HEADER    OXIDOREDUCTASE                          31-MAR-07   2PDG
+TITLE     HUMAN ALDOSE REDUCTASE WITH URACIL-TYPE INHIBITOR AT 1.42A.
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.42 ANGSTROMS
+REMARK   3  R VALUE : 0.144000
+REMARK   3  FREE R VALUE : 0.295000
+REMARK   4 2PDG COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 100.00
+REMARK 200  PH                             : 5.00
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   49.287   66.919   47.104  90.00  92.72  90.00 P 1 21 1      2
+HETATM    1  C1  UNK   900      17.311  -4.833  11.684  1.00  0.00           C  
+HETATM    2  N1  UNK   900      18.407  -5.286  12.432  1.00  0.00           N  
+HETATM    3  C2  UNK   900      18.028  -6.271  13.264  1.00  0.00           C  
+HETATM    4  C3  UNK   900      18.999  -7.030  14.141  1.00  0.00           C  
+HETATM    5  N2  UNK   900      18.316  -7.686  15.250  1.00  0.00           N  
+HETATM    6  C4  UNK   900      17.974  -6.876  16.351  1.00  0.00           C  
+HETATM    7  O1  UNK   900      18.430  -5.741  16.462  1.00  0.00           O  
+HETATM    8  N3  UNK   900      17.056  -7.400  17.284  1.00  0.00           N  
+HETATM    9  C5  UNK   900      16.676  -6.564  18.400  1.00  0.00           C  
+HETATM   10  C6  UNK   900      15.342  -5.827  18.221  1.00  0.00           C  
+HETATM   11  O2  UNK   900      14.831  -5.341  19.259  1.00  0.00           O1-
+HETATM   12  O3  UNK   900      14.831  -5.750  17.077  1.00  0.00           O  
+HETATM   13  C7  UNK   900      16.577  -8.687  17.133  1.00  0.00           C  
+HETATM   14  C8  UNK   900      16.943  -9.489  16.108  1.00  0.00           C  
+HETATM   15  C9  UNK   900      17.852  -9.013  15.070  1.00  0.00           C  
+HETATM   16  O4  UNK   900      18.167  -9.689  14.091  1.00  0.00           O  
+HETATM   17  S1  UNK   900      16.298  -6.642  13.242  1.00  0.00           S  
+HETATM   18  C10 UNK   900      16.077  -5.492  11.952  1.00  0.00           C  
+HETATM   19  C11 UNK   900      14.892  -5.180  11.266  1.00  0.00           C  
+HETATM   20  C12 UNK   900      14.900  -4.144  10.323  1.00  0.00           C  
+HETATM   21  C13 UNK   900      16.088  -3.444  10.065  1.00  0.00           C  
+HETATM   22 CL1  UNK   900      16.033  -2.134   8.950  1.00  0.00          Cl  
+HETATM   23  C14 UNK   900      17.290  -3.802  10.714  1.00  0.00           C  
+HETATM   24  H1  UNK   900      19.761  -6.366  14.551  1.00  0.00           H  
+HETATM   25  H2  UNK   900      19.537  -7.787  13.574  1.00  0.00           H  
+HETATM   26  H3  UNK   900      17.490  -5.880  18.646  1.00  0.00           H  
+HETATM   27  H4  UNK   900      16.589  -7.247  19.245  1.00  0.00           H  
+HETATM   28  H5  UNK   900      15.883  -9.067  17.870  1.00  0.00           H  
+HETATM   29  H6  UNK   900      16.539 -10.488  16.039  1.00  0.00           H  
+HETATM   30  H7  UNK   900      13.971  -5.697  11.499  1.00  0.00           H  
+HETATM   31  H8  UNK   900      13.992  -3.865   9.810  1.00  0.00           H  
+HETATM   32  H9  UNK   900      18.197  -3.259  10.500  1.00  0.00           H  
+CONECT    1    2   18   23
+CONECT    1   23
+CONECT    2    1    3
+CONECT    2    3
+CONECT    3    2    4   17
+CONECT    3    2
+CONECT    4    3    5   24   25
+CONECT    5    4    6   15
+CONECT    6    5    7    8
+CONECT    6    7
+CONECT    7    6
+CONECT    7    6
+CONECT    8    6    9   13
+CONECT    9    8   10   26   27
+CONECT   10    9   11   12
+CONECT   10   12
+CONECT   11   10
+CONECT   12   10
+CONECT   12   10
+CONECT   13    8   14   28
+CONECT   13   14
+CONECT   14   13   15   29
+CONECT   14   13
+CONECT   15    5   14   16
+CONECT   15   16
+CONECT   16   15
+CONECT   16   15
+CONECT   17    3   18
+CONECT   18    1   17   19
+CONECT   18   19
+CONECT   19   18   20   30
+CONECT   19   18
+CONECT   20   19   21   31
+CONECT   20   21
+CONECT   21   20   22   23
+CONECT   21   20
+CONECT   22   21
+CONECT   23    1   21   32
+CONECT   23    1
+CONECT   24    4
+CONECT   25    4
+CONECT   26    9
+CONECT   27    9
+CONECT   28   13
+CONECT   29   14
+CONECT   30   19
+CONECT   31   20
+CONECT   32   23
+END   

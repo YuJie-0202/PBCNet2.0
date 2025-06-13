@@ -1,0 +1,296 @@
+lig_cmet_CHEMBL3402765_11-charged-pKa-8
+                    3D
+ Schrodinger Suite 2023-4.
+ 62 65  0  0  1  0            999 V2000
+  -21.8716   18.5094   97.0039 O   0  0  0  0  0  0
+  -21.9821   19.6850   96.6552 C   0  0  0  0  0  0
+  -20.9960   20.6593   96.6339 N   0  0  0  0  0  0
+  -19.6778   20.6034   97.1658 C   0  0  0  0  0  0
+  -19.1250   19.4698   97.8138 C   0  0  0  0  0  0
+  -17.8158   19.5124   98.3263 C   0  0  0  0  0  0
+  -17.0497   20.6857   98.2149 C   0  0  0  0  0  0
+  -17.5872   21.8189   97.5748 C   0  0  0  0  0  0
+  -16.7830   23.1020   97.4954 C   0  0  0  0  0  0
+  -17.0914   23.9907   98.6172 N   0  0  0  0  0  0
+  -18.1885   24.8008   98.3946 N   0  0  0  0  0  0
+  -18.5972   25.6474   99.2850 C   0  0  0  0  0  0
+  -19.7549   26.5090   98.9152 C   0  0  0  0  0  0
+  -20.4821   26.2606   97.7230 C   0  0  0  0  0  0
+  -21.5585   27.0962   97.3694 C   0  0  0  0  0  0
+  -22.2270   26.8802   96.2126 F   0  0  0  0  0  0
+  -21.9310   28.1623   98.2100 C   0  0  0  0  0  0
+  -21.2126   28.4151   99.3954 C   0  0  0  0  0  0
+  -21.5480   29.4651  100.1829 F   0  0  0  0  0  0
+  -20.1198   27.5944   99.7379 C   0  0  0  0  0  0
+  -17.8979   25.7087  100.5638 C   0  0  0  0  0  0
+  -16.8227   24.9120  100.7730 C   0  0  0  0  0  0
+  -16.3276   24.0011   99.7458 C   0  0  0  0  0  0
+  -15.3097   23.3146   99.8662 O   0  0  0  0  0  0
+  -18.8957   21.7721   97.0518 C   0  0  0  0  0  0
+  -23.1276   20.2410   96.2223 O   0  0  0  0  0  0
+  -24.3264   19.4747   96.2547 C   0  0  0  0  0  0
+  -25.5509   20.3887   96.1072 C   0  0  0  0  0  0
+  -25.6462   21.4576   97.2124 C   0  0  0  0  0  0
+  -25.4302   22.8289   96.6844 N   0  3  0  0  0  0
+  -24.9632   23.7785   97.7234 C   0  0  0  0  0  0
+  -24.7009   25.1586   97.0985 C   0  0  0  0  0  0
+  -25.9027   25.6328   96.5020 O   0  0  0  0  0  0
+  -26.3502   24.7917   95.4459 C   0  0  0  0  0  0
+  -26.6232   23.3751   95.9869 C   0  0  0  0  0  0
+  -21.2957   21.5445   96.2551 H   0  0  0  0  0  0
+  -19.6710   18.5471   97.9167 H   0  0  0  0  0  0
+  -17.4005   18.6387   98.8094 H   0  0  0  0  0  0
+  -16.0478   20.7175   98.6188 H   0  0  0  0  0  0
+  -15.7180   22.8683   97.4413 H   0  0  0  0  0  0
+  -17.0043   23.6092   96.5540 H   0  0  0  0  0  0
+  -20.2254   25.4484   97.0590 H   0  0  0  0  0  0
+  -22.7560   28.8016   97.9387 H   0  0  0  0  0  0
+  -19.5557   27.8439  100.6137 H   0  0  0  0  0  0
+  -18.2316   26.3660  101.3530 H   0  0  0  0  0  0
+  -16.3101   24.9518  101.7224 H   0  0  0  0  0  0
+  -19.3066   22.6505   96.5751 H   0  0  0  0  0  0
+  -24.3971   18.9245   97.1928 H   0  0  0  0  0  0
+  -24.3102   18.7406   95.4491 H   0  0  0  0  0  0
+  -26.4414   19.7608   96.1496 H   0  0  0  0  0  0
+  -25.5626   20.8382   95.1136 H   0  0  0  0  0  0
+  -24.9180   21.2379   97.9954 H   0  0  0  0  0  0
+  -26.6182   21.4054   97.7066 H   0  0  0  0  0  0
+  -24.0503   23.4078   98.2009 H   0  0  0  0  0  0
+  -25.7182   23.8649   98.5045 H   0  0  0  0  0  0
+  -24.3797   25.8637   97.8687 H   0  0  0  0  0  0
+  -23.9028   25.0991   96.3568 H   0  0  0  0  0  0
+  -27.2705   25.2131   95.0337 H   0  0  0  0  0  0
+  -25.6192   24.7771   94.6370 H   0  0  0  0  0  0
+  -27.4655   23.4107   96.6822 H   0  0  0  0  0  0
+  -26.9171   22.7230   95.1639 H   0  0  0  0  0  0
+  -24.6859   22.7742   95.9999 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2 26  1  0  0  0
+  3  4  1  0  0  0
+  3 36  1  0  0  0
+  4 25  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  5 37  1  0  0  0
+  6  7  2  0  0  0
+  6 38  1  0  0  0
+  7  8  1  0  0  0
+  7 39  1  0  0  0
+  8  9  1  0  0  0
+  8 25  2  0  0  0
+  9 10  1  0  0  0
+  9 40  1  0  0  0
+  9 41  1  0  0  0
+ 10 23  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+ 12 21  1  0  0  0
+ 13 20  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 42  1  0  0  0
+ 15 16  1  0  0  0
+ 15 17  2  0  0  0
+ 17 18  1  0  0  0
+ 17 43  1  0  0  0
+ 18 19  1  0  0  0
+ 18 20  2  0  0  0
+ 20 44  1  0  0  0
+ 21 22  2  0  0  0
+ 21 45  1  0  0  0
+ 22 23  1  0  0  0
+ 22 46  1  0  0  0
+ 23 24  2  0  0  0
+ 25 47  1  0  0  0
+ 26 27  1  0  0  0
+ 27 28  1  0  0  0
+ 27 48  1  0  0  0
+ 27 49  1  0  0  0
+ 28 29  1  0  0  0
+ 28 50  1  0  0  0
+ 28 51  1  0  0  0
+ 29 30  1  0  0  0
+ 29 52  1  0  0  0
+ 29 53  1  0  0  0
+ 30 35  1  0  0  0
+ 30 31  1  0  0  0
+ 30 62  1  0  0  0
+ 31 32  1  0  0  0
+ 31 54  1  0  0  0
+ 31 55  1  0  0  0
+ 32 33  1  0  0  0
+ 32 56  1  0  0  0
+ 32 57  1  0  0  0
+ 33 34  1  0  0  0
+ 34 35  1  0  0  0
+ 34 58  1  0  0  0
+ 34 59  1  0  0  0
+ 35 60  1  0  0  0
+ 35 61  1  0  0  0
+M  CHG  1  30   1
+M  END
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <i_i_glide_confnum>
+16
+
+> <i_i_glide_lignum>
+5
+
+> <i_i_glide_posenum>
+334
+
+> <i_i_glide_rotatable_bonds>
+10
+
+> <i_lp_mmshare_version>
+65135
+
+> <i_m_Source_File_Index>
+4
+
+> <i_m_source_file_index>
+4
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_canvas_pIC50s>
+7.96
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.854091
+
+> <r_epik_Ionization_Penalty>
+0.427
+
+> <r_epik_Ionization_Penalty_Charging>
+0.427
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+0.427
+
+> <r_i_docking_score>
+-10.3418
+
+> <r_i_glide_ecoul>
+-12.2131
+
+> <r_i_glide_eff_state_penalty>
+0.427
+
+> <r_i_glide_einternal>
+6.41625
+
+> <r_i_glide_emodel>
+-116.696
+
+> <r_i_glide_energy>
+-71.8358
+
+> <r_i_glide_erotb>
+0.775689
+
+> <r_i_glide_esite>
+-0.01413
+
+> <r_i_glide_evdw>
+-59.6228
+
+> <r_i_glide_gscore>
+-10.7688
+
+> <r_i_glide_hbond>
+-0.444377
+
+> <r_i_glide_ligand_efficiency>
+-0.29548
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.27025
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.966534
+
+> <r_i_glide_lipo>
+-4.65453
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-1.61835
+
+> <r_lp_Energy>
+60.1386
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_canvas_SMILES>
+O=C(Nc1cccc(Cn2nc(-c3cc(F)cc(F)c3)ccc2=O)c1)OCCC[NH+]1CCOCC1
+
+> <s_canvas_chembl\_ids>
+CHEMBL3717
+
+> <s_canvas_dirnames>
+test_set_fep+
+
+> <s_canvas_pdb\_ids>
+4R1Y
+
+> <s_canvas_protein\_names>
+cmet
+
+> <s_canvas_uniprot\_ids>
+P08581
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+W0NIMl0xW0NIMl1PW0NIMl1bQ0gyXU4xW0NIMl1bQ0gyXVtDSDJdT0MoPU8pW05IXWMyW2NIXVtjSF1bY0hdYyhbY0hdMilbQ0gyXW4zbmMoW2NIXVtjSF1jMz1PKS1jNFtjSF1jKEYpW2NIXWMoRilbY0hdNA==
+
+> <s_i_glide_gridfile>
+cmet-001-gridgen
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+lig_cmet_CHEMBL3402765_11-charged-pKa-8-2
+
+> <s_m_Source_File>
+ligprep_cmet-out.maegz
+
+> <s_m_Source_Path>
+C:\Users\yujie\Desktop\FEP\ligprep_cmet
+
+> <s_m_entry_id>
+14221
+
+> <s_m_entry_name>
+label.4
+
+> <s_m_job_name>
+ligprep_cmet
+
+> <s_m_source_file>
+ligprep_cmet.maegz
+
+$$$$

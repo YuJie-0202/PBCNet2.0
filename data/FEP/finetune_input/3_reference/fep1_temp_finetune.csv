@@ -1,0 +1,4 @@
+file_name,again_number,reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+PTP1B,3,1,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_206692qbr.pkl,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_23485.pkl,-1.7660277570522125,6.335624578424811,8.101652335477024,9,7,9,206692qbr,23485
+PTP1B,3,1,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_23471.pkl,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_23485.pkl,-2.39885436999592,5.702797965481103,8.101652335477024,0,7,7,23471,23485
+PTP1B,3,2,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_23471.pkl,/home/yujie/leadopt/data/test_set_fep_graph_rmH_I/PTP1B/PTP1B_206692qbr.pkl,-0.6328266129437079,5.702797965481103,6.335624578424811,0,9,9,23471,206692qbr

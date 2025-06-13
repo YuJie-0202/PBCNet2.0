@@ -1,0 +1,234 @@
+/home/yujie/leadopt/data/result/selection/PSK13/lig_22.sdf:1
+                    3D
+ Schrodinger Suite 2020-3.
+ 52 55  0  0  1  0            999 V2000
+    6.7410   25.5051    4.0553 C   0  0  0  0  0  0
+    5.7342   25.3890    5.1011 N   0  0  0  0  0  0
+    5.6939   26.1432    6.2065 C   0  0  0  0  0  0
+    6.4949   27.0388    6.4667 O   0  0  0  0  0  0
+    4.5879   25.8374    7.0694 C   0  0  0  0  0  0
+    4.2797   24.5609    7.5789 C   0  0  0  0  0  0
+    3.1678   24.5890    8.3672 O   0  0  0  0  0  0
+    2.7284   25.8694    8.3755 C   0  0  0  0  0  0
+    1.5763   26.3121    9.0259 C   0  0  0  0  0  0
+    1.2637   27.6595    8.8706 C   0  0  0  0  0  0
+    2.0828   28.5252    8.1481 C   0  0  0  0  0  0
+    3.2769   28.0930    7.5434 C   0  0  0  0  0  0
+    3.5820   26.7128    7.6202 C   0  0  0  0  0  0
+    4.1693   29.1025    6.8267 C   0  0  0  0  0  0
+    5.3328   29.6141    7.7097 N   0  3  1  0  0  0
+    6.2555   30.4927    6.8423 C   0  0  0  0  0  0
+    7.4534   30.9682    7.6702 C   0  0  0  0  0  0
+    7.0584   31.6658    8.9828 C   0  0  2  0  0  0
+    8.1595   31.7554    9.7305 F   0  0  0  0  0  0
+    5.9850   30.9056    9.7854 C   0  0  0  0  0  0
+    4.8058   30.3957    8.9384 C   0  0  0  0  0  0
+    1.7176   29.7278    8.0398 O   0  5  0  0  0  0
+    4.8914   23.2069    7.4246 C   0  0  0  0  0  0
+    4.0693   22.0731    7.4413 C   0  0  0  0  0  0
+    4.6186   20.8078    7.2655 C   0  0  0  0  0  0
+    5.9903   20.6786    7.0655 C   0  0  0  0  0  0
+    6.8174   21.7966    7.0537 C   0  0  0  0  0  0
+    6.2695   23.0587    7.2469 C   0  0  0  0  0  0
+    6.5351   19.4425    6.8896 O   0  0  0  0  0  0
+    6.8679   24.5454    3.5529 H   0  0  0  0  0  0
+    6.4322   26.2412    3.3136 H   0  0  0  0  0  0
+    7.7119   25.8027    4.4569 H   0  0  0  0  0  0
+    5.0110   24.6956    4.9776 H   0  0  0  0  0  0
+    0.9479   25.6367    9.5883 H   0  0  0  0  0  0
+    0.3689   28.0576    9.3294 H   0  0  0  0  0  0
+    4.6046   28.6736    5.9248 H   0  0  0  0  0  0
+    3.6375   29.9983    6.5016 H   0  0  0  0  0  0
+    6.5752   29.8549    6.0236 H   0  0  0  0  0  0
+    5.6579   31.3235    6.4588 H   0  0  0  0  0  0
+    8.1103   30.1221    7.8832 H   0  0  0  0  0  0
+    8.0393   31.6557    7.0612 H   0  0  0  0  0  0
+    6.7338   32.6882    8.7851 H   0  0  0  0  0  0
+    5.5839   31.5668   10.5550 H   0  0  0  0  0  0
+    6.4421   30.0724   10.3204 H   0  0  0  0  0  0
+    4.1839   31.2066    8.5624 H   0  0  0  0  0  0
+    4.1723   29.7309    9.5251 H   0  0  0  0  0  0
+    3.0016   22.1743    7.5760 H   0  0  0  0  0  0
+    3.9785   19.9361    7.2809 H   0  0  0  0  0  0
+    7.8814   21.6807    6.9086 H   0  0  0  0  0  0
+    6.9227   23.9192    7.2499 H   0  0  0  0  0  0
+    5.8578   18.7590    6.8411 H   0  0  0  0  0  0
+    5.8664   28.8122    8.0291 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 30  1  0  0  0
+  1 31  1  0  0  0
+  1 32  1  0  0  0
+  2  3  1  0  0  0
+  2 33  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  5 13  1  0  0  0
+  5  6  2  0  0  0
+  6  7  1  0  0  0
+  6 23  1  0  0  0
+  7  8  1  0  0  0
+  8 13  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+  9 34  1  0  0  0
+ 10 11  2  0  0  0
+ 10 35  1  0  0  0
+ 11 12  1  0  0  0
+ 11 22  1  0  0  0
+ 12 13  2  0  0  0
+ 12 14  1  0  0  0
+ 14 15  1  0  0  0
+ 14 36  1  0  0  0
+ 14 37  1  0  0  0
+ 15 21  1  0  0  0
+ 15 16  1  0  0  0
+ 15 52  1  0  0  0
+ 16 17  1  0  0  0
+ 16 38  1  0  0  0
+ 16 39  1  0  0  0
+ 17 18  1  0  0  0
+ 17 40  1  0  0  0
+ 17 41  1  0  0  0
+ 18 19  1  0  0  0
+ 18 20  1  0  0  0
+ 18 42  1  0  0  0
+ 20 21  1  0  0  0
+ 20 43  1  0  0  0
+ 20 44  1  0  0  0
+ 21 45  1  0  0  0
+ 21 46  1  0  0  0
+ 23 28  1  0  0  0
+ 23 24  2  0  0  0
+ 24 25  1  0  0  0
+ 24 47  1  0  0  0
+ 25 26  2  0  0  0
+ 25 48  1  0  0  0
+ 26 27  1  0  0  0
+ 26 29  1  0  0  0
+ 27 28  2  0  0  0
+ 27 49  1  0  0  0
+ 28 50  1  0  0  0
+ 29 51  1  0  0  0
+M  CHG  2  15   1  22  -1
+M  END
+> <s_m_source_file>
+/home/yujie/leadopt/data/result/selection/PSK13/lig_22.sdf
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFbY0hdYyhbT0hdKVtjSF1bY0hdYzEtYyhvMiljKEMoPU8pW05IXVtDSDNdKWMoYzIzKWMoYyhbT0hdKVtjSF1bY0hdMylbQ0gyXU40W0NIMl1bQ0gyXVtDSF0oRilbQ0gyXVtDSDJdNA==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.4754
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.4744
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0010
+
+> <r_epik_State_Penalty>
+  0.4621
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.936436
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+22.6347
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/PSK13/lig_22.sdf:1-2
+
+> <s_i_glide_gridfile>
+glide-grid_PSK13
+
+> <i_i_glide_lignum>
+2
+
+> <i_i_glide_rotatable_bonds>
+6
+
+> <r_i_docking_score>
+-8.57586318937289
+
+> <r_i_glide_ligand_efficiency>
+-0.295719420323203
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.908543749721263
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.96365520523931
+
+> <r_i_glide_gscore>
+-9.03791918937289
+
+> <r_i_glide_lipo>
+-4.49546315665567
+
+> <r_i_glide_hbond>
+-0.32
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-1.54604102403218
+
+> <r_i_glide_evdw>
+-47.908073425293
+
+> <r_i_glide_ecoul>
+-5.16331624984741
+
+> <r_i_glide_erotb>
+0.493486100056729
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_emodel>
+-77.5852955796706
+
+> <r_i_glide_energy>
+-53.0713896751404
+
+> <r_i_glide_einternal>
+2.17004036903381
+
+> <i_i_glide_confnum>
+17
+
+> <i_i_glide_posenum>
+175
+
+> <r_i_glide_eff_state_penalty>
+0.462056
+
+$$$$

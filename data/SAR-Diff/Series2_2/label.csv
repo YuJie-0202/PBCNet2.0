@@ -1,0 +1,10 @@
+Unnamed: 0,chembl_assay_id,target_uniprot,core_smiles,r_group_smils,smiles,Label
+0,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,Clc1ccc([*])cc1,CNS(=O)(=O)c1cccc(Nc2cc(Nc3ccc(Cl)cc3)ncn2)c1,7.102
+1,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,COc1ccc([*])cc1,CNS(=O)(=O)c1cccc(Nc2cc(Nc3ccc(OC)cc3)ncn2)c1,6.796
+2,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,[*]c1ccccc1,CNS(=O)(=O)c1cccc(Nc2cc(Nc3ccccc3)ncn2)c1,7.201
+3,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,Cc1cccc([*])c1,CNS(=O)(=O)c1cccc(Nc2cc(Nc3cccc(C)c3)ncn2)c1,7.495
+4,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,Fc1ccccc1[*],CNS(=O)(=O)c1cccc(Nc2cc(Nc3ccccc3F)ncn2)c1,6.201
+5,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,Clc1cccc([*])c1,CNS(=O)(=O)c1cccc(Nc2cc(Nc3cccc(Cl)c3)ncn2)c1,7.102
+6,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,COc1cccc([*])c1,CNS(=O)(=O)c1cccc(Nc2cc(Nc3cccc(OC)c3)ncn2)c1,7.201
+7,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,COc1ccccc1[*],CNS(=O)(=O)c1cccc(Nc2cc(Nc3ccccc3OC)ncn2)c1,5.495
+8,1674597,Q59H18,CNS(=O)(=O)c1cccc(Nc2cc(N[*])ncn2)c1,Cc1ccc([*])cc1,CNS(=O)(=O)c1cccc(Nc2cc(Nc3ccc(C)cc3)ncn2)c1,7.102

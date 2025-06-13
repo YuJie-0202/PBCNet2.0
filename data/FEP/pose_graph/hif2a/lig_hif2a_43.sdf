@@ -1,0 +1,213 @@
+lig_hif2a_43
+                    3D
+ Schrodinger Suite 2024-1.
+ 34 35  0  0  1  0            999 V2000
+   18.0217    2.0832   -8.6893 N   0  0  0  0  0  0
+   18.5692    1.2420   -9.2672 C   0  0  0  0  0  0
+   19.2681    0.1833   -9.9846 C   0  0  0  0  0  0
+   18.7995   -1.1348   -9.9823 C   0  0  0  0  0  0
+   19.4949   -2.1350  -10.6621 C   0  0  0  0  0  0
+   20.6838   -1.8300  -11.3206 C   0  0  0  0  0  0
+   21.1751   -0.5233  -11.2959 C   0  0  0  0  0  0
+   22.3820   -0.2300  -11.8746 O   0  0  0  0  0  0
+   23.5588   -0.3316  -11.1561 C   0  0  0  0  0  0
+   23.6198   -0.9169   -9.8883 C   0  0  0  0  0  0
+   24.8294   -1.0298   -9.2234 C   0  0  0  0  0  0
+   26.0169   -0.5676   -9.7969 C   0  0  0  0  0  0
+   27.5103   -0.8550   -8.8159 S   0  0  0  0  0  0
+   27.1833   -1.8731   -7.8131 O   0  0  0  0  0  0
+   28.6292   -1.1191   -9.7159 O   0  0  0  0  0  0
+   27.8186    0.7811   -7.9206 C   0  0  0  0  0  0
+   29.0747    0.7658   -7.4853 F   0  0  0  0  0  0
+   27.6387    1.7890   -8.7721 F   0  0  0  0  0  0
+   25.9738    0.0674  -11.0646 C   0  0  0  0  0  0
+   27.2097    0.6764  -11.7424 C   0  0  0  0  0  0
+   27.2187    2.0832  -11.6596 O   0  0  0  0  0  0
+   24.7341    0.1626  -11.7360 C   0  0  0  0  0  0
+   24.6271    0.8953  -13.3079 Cl  0  0  0  0  0  0
+   20.4514    0.4834  -10.6549 C   0  0  0  0  0  0
+   17.8918   -1.3985   -9.4587 H   0  0  0  0  0  0
+   19.1258   -3.1510  -10.6639 H   0  0  0  0  0  0
+   21.2365   -2.6089  -11.8265 H   0  0  0  0  0  0
+   22.7360   -1.3157   -9.4134 H   0  0  0  0  0  0
+   24.8274   -1.5149   -8.2577 H   0  0  0  0  0  0
+   27.1323    0.8765   -7.0820 H   0  0  0  0  0  0
+   28.1593    0.3391  -11.3591 H   0  0  0  0  0  0
+   27.2246    0.3845  -12.7939 H   0  0  0  0  0  0
+   28.1035    2.4105  -11.8809 H   0  0  0  0  0  0
+   20.8220    1.4968  -10.6595 H   0  0  0  0  0  0
+  1  2  3  0  0  0
+  2  3  1  0  0  0
+  3 24  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  4 25  1  0  0  0
+  5  6  2  0  0  0
+  5 26  1  0  0  0
+  6  7  1  0  0  0
+  6 27  1  0  0  0
+  7  8  1  0  0  0
+  7 24  2  0  0  0
+  8  9  1  0  0  0
+  9 22  1  0  0  0
+  9 10  2  0  0  0
+ 10 11  1  0  0  0
+ 10 28  1  0  0  0
+ 11 12  2  0  0  0
+ 11 29  1  0  0  0
+ 12 13  1  0  0  0
+ 12 19  1  0  0  0
+ 13 14  2  0  0  0
+ 13 15  2  0  0  0
+ 13 16  1  0  0  0
+ 16 17  1  0  0  0
+ 16 18  1  0  0  0
+ 16 30  1  0  0  0
+ 19 20  1  0  0  0
+ 19 22  2  0  0  0
+ 20 21  1  0  0  0
+ 20 31  1  0  0  0
+ 20 32  1  0  0  0
+ 21 33  1  0  0  0
+ 22 23  1  0  0  0
+ 24 34  1  0  0  0
+M  END
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_i_glide_confnum>
+4
+
+> <i_i_glide_lignum>
+30
+
+> <i_i_glide_posenum>
+365
+
+> <i_i_glide_rotatable_bonds>
+6
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_m_Source_File_Index>
+69
+
+> <i_f3d_flags>
+0
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <b_m_subgroup_collapsed>
+0
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <r_epik_Ionization_Penalty>
+0
+
+> <r_epik_Ionization_Penalty_Charging>
+0
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+0
+
+> <r_i_docking_score>
+-10.4932
+
+> <r_i_glide_ecoul>
+-4.99815
+
+> <r_i_glide_eff_state_penalty>
+0
+
+> <r_i_glide_einternal>
+5.49089
+
+> <r_i_glide_emodel>
+-84.2402
+
+> <r_i_glide_energy>
+-53.7584
+
+> <r_i_glide_erotb>
+0.553446
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_evdw>
+-48.7603
+
+> <r_i_glide_gscore>
+-10.4932
+
+> <r_i_glide_hbond>
+-0.32
+
+> <r_i_glide_ligand_efficiency>
+-0.437218
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.51151
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.26116
+
+> <r_i_glide_lipo>
+-4.48352
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-3.05543
+
+> <r_lp_Energy>
+32.4632
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+TiNDYzFbY0hdW2NIXVtjSF1jKFtjSF0xKU9jMltjSF1bY0hdYyhTKD1PKSg9TylbQ0hdKEYpRiljKGMyQ2wpW0NIMl1bT0hd
+
+> <s_i_glide_gridfile>
+hif2a-001-gridgen
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <s_lp_Variant>
+lig_hif2a_43-1
+
+> <s_m_Source_File>
+hif2ahif2a_dock_SP_confgen_100_lib.maegz
+
+> <s_m_Source_Path>
+D:\project\FEP\hif2a
+
+> <s_m_entry_id>
+521
+
+> <s_m_entry_name>
+hif2ahif2a_dock_SP_confgen_100_lib.69
+
+> <s_m_subgroup_title>
+hif2ahif2a_dock_SP_confgen_100_lib
+
+> <s_m_subgroupid>
+hif2ahif2a_dock_SP_confgen_100_lib
+
+$$$$

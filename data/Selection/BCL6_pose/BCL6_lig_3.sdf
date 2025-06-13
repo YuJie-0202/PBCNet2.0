@@ -1,0 +1,251 @@
+/home/yujie/leadopt/data/result/selection/BCL6/lig_3.sdf:1
+                    3D
+ Schrodinger Suite 2020-3.
+ 59 63  0  0  1  0            999 V2000
+  -21.8363    8.8059   20.0447 C   0  0  0  0  0  0
+  -22.2245   10.1701   19.6346 N   0  0  0  0  0  0
+  -21.4757   11.2016   20.1371 C   0  0  0  0  0  0
+  -20.4822   11.0927   20.8513 O   0  0  0  0  0  0
+  -21.9590   12.5151   19.7705 C   0  0  0  0  0  0
+  -22.9573   12.7566   18.8944 C   0  0  0  0  0  0
+  -23.4561   14.0200   18.6138 N   0  0  0  0  0  0
+  -23.0863   15.3450   19.1349 C   0  0  0  0  0  0
+  -23.9331   16.4154   18.4045 C   0  0  0  0  0  0
+  -23.4416   15.4463   20.6474 C   0  0  0  0  0  0
+  -21.5895   15.6299   18.8427 C   0  0  0  0  0  0
+  -21.2104   15.6575   17.5297 N   0  0  0  0  0  0
+  -19.9208   15.9972   17.2746 C   0  0  0  0  0  0
+  -19.0123   16.3239   18.2863 C   0  0  0  0  0  0
+  -19.4892   16.2581   19.6014 C   0  0  0  0  0  0
+  -20.7664   15.9082   19.8966 N   0  0  0  0  0  0
+  -17.5913   16.7318   17.9447 C   0  0  0  0  0  0
+  -17.2549   18.1581   17.5801 C   0  0  0  0  0  0
+  -16.7161   17.5602   18.8610 C   0  0  0  0  0  0
+  -23.6309   11.6049   18.2223 C   0  0  0  0  0  0
+  -24.5238   11.7473   17.1459 C   0  0  0  0  0  0
+  -25.0417   10.6277   16.4920 C   0  0  0  0  0  0
+  -24.7238    9.3536   16.9615 C   0  0  0  0  0  0
+  -23.8367    9.1940   18.0215 C   0  0  0  0  0  0
+  -23.2443   10.3090   18.6382 C   0  0  0  0  0  0
+  -25.8557   10.7987   15.3610 N   0  0  0  0  0  0
+  -25.8341   10.1061   14.1295 C   0  0  0  0  0  0
+  -24.7054    9.3428   13.7932 C   0  0  0  0  0  0
+  -24.6515    8.7043   12.5600 C   0  0  0  0  0  0
+  -25.6443    8.7908   11.6485 N   0  0  0  0  0  0
+  -26.7402    9.5286   11.9554 C   0  0  0  0  0  0
+  -26.8832   10.2045   13.1851 C   0  0  0  0  0  0
+  -28.1084   10.9582   13.4505 C   0  0  0  0  0  0
+  -29.0836   11.5484   13.6466 N   0  0  0  0  0  0
+  -27.9696    9.5628   10.7330 Cl  0  0  0  0  0  0
+  -21.0685    8.7750   20.8178 H   0  0  0  0  0  0
+  -22.6973    8.2712   20.4463 H   0  0  0  0  0  0
+  -21.4530    8.2453   19.1922 H   0  0  0  0  0  0
+  -21.4671   13.3343   20.2679 H   0  0  0  0  0  0
+  -24.3073   14.0741   18.0691 H   0  0  0  0  0  0
+  -23.6330   17.4240   18.6939 H   0  0  0  0  0  0
+  -23.8322   16.3485   17.3195 H   0  0  0  0  0  0
+  -24.9941   16.3288   18.6267 H   0  0  0  0  0  0
+  -23.2604   16.4503   21.0357 H   0  0  0  0  0  0
+  -24.4830   15.2135   20.8472 H   0  0  0  0  0  0
+  -22.8570   14.7593   21.2570 H   0  0  0  0  0  0
+  -19.6293   16.0243   16.2347 H   0  0  0  0  0  0
+  -18.8617   16.4953   20.4476 H   0  0  0  0  0  0
+  -17.0799   15.9817   17.3384 H   0  0  0  0  0  0
+  -16.5725   18.3320   16.7467 H   0  0  0  0  0  0
+  -18.0448   18.9073   17.6337 H   0  0  0  0  0  0
+  -17.1107   17.9316   19.8076 H   0  0  0  0  0  0
+  -15.6538   17.3214   18.9235 H   0  0  0  0  0  0
+  -24.7814   12.7279   16.7738 H   0  0  0  0  0  0
+  -25.1458    8.4789   16.4865 H   0  0  0  0  0  0
+  -23.5942    8.1867   18.3226 H   0  0  0  0  0  0
+  -26.5200   11.5580   15.4213 H   0  0  0  0  0  0
+  -23.8596    9.2647   14.4589 H   0  0  0  0  0  0
+  -23.7877    8.1169   12.2794 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 36  1  0  0  0
+  1 37  1  0  0  0
+  1 38  1  0  0  0
+  2 25  1  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  5  6  2  0  0  0
+  5 39  1  0  0  0
+  6  7  1  0  0  0
+  6 20  1  0  0  0
+  7  8  1  0  0  0
+  7 40  1  0  0  0
+  8  9  1  0  0  0
+  8 10  1  0  0  0
+  8 11  1  0  0  0
+  9 41  1  0  0  0
+  9 42  1  0  0  0
+  9 43  1  0  0  0
+ 10 44  1  0  0  0
+ 10 45  1  0  0  0
+ 10 46  1  0  0  0
+ 11 16  1  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 13 47  1  0  0  0
+ 14 15  1  0  0  0
+ 14 17  1  0  0  0
+ 15 16  2  0  0  0
+ 15 48  1  0  0  0
+ 17 19  1  0  0  0
+ 17 18  1  0  0  0
+ 17 49  1  0  0  0
+ 18 19  1  0  0  0
+ 18 50  1  0  0  0
+ 18 51  1  0  0  0
+ 19 52  1  0  0  0
+ 19 53  1  0  0  0
+ 20 25  2  0  0  0
+ 20 21  1  0  0  0
+ 21 22  2  0  0  0
+ 21 54  1  0  0  0
+ 22 23  1  0  0  0
+ 22 26  1  0  0  0
+ 23 24  2  0  0  0
+ 23 55  1  0  0  0
+ 24 25  1  0  0  0
+ 24 56  1  0  0  0
+ 26 27  1  0  0  0
+ 26 57  1  0  0  0
+ 27 32  1  0  0  0
+ 27 28  2  0  0  0
+ 28 29  1  0  0  0
+ 28 58  1  0  0  0
+ 29 30  2  0  0  0
+ 29 59  1  0  0  0
+ 30 31  1  0  0  0
+ 31 32  2  0  0  0
+ 31 35  1  0  0  0
+ 32 33  1  0  0  0
+ 33 34  3  0  0  0
+M  END
+> <s_m_source_file>
+/home/yujie/leadopt/data/result/selection/BCL6/lig_3.sdf
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIMl0xW0NIMl1bQ0hdMWMoW2NIXW4yKVtjSF1uYzJDKFtDSDNdKShbQ0gzXSlbTkhdYzNbY0hdYyg9TyluKFtDSDNdKWMoYzM0KVtjSF1bY0hdYyhbY0hdNClbTkhdYzVbY0hdW2NIXW5jKENsKWM1QyNO
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0004
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0004
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+3.85775e-06
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains an electron-poor aromatic ring that is susceptible to covalent hydrolysis at low pH, typically resulting in measured values for nitrogen ring protonation that are around two units higher than predicted values.
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+63.4545
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/BCL6/lig_3.sdf:1-1
+
+> <s_i_glide_gridfile>
+glide-grid_BCL6
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_rotatable_bonds>
+6
+
+> <r_i_docking_score>
+-4.68892251559293
+
+> <r_i_glide_ligand_efficiency>
+-0.133969214731226
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.438222184390392
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.02932255720101
+
+> <r_i_glide_gscore>
+-4.68892251559293
+
+> <r_i_glide_lipo>
+-1.77945423158405
+
+> <r_i_glide_hbond>
+-0.312249816765342
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-0.524465866093765
+
+> <r_i_glide_evdw>
+-36.2419967651367
+
+> <r_i_glide_ecoul>
+-5.06851005554199
+
+> <r_i_glide_erotb>
+0.51622157875095
+
+> <r_i_glide_esite>
+-0.0165978333125872
+
+> <r_i_glide_emodel>
+-50.2423825629142
+
+> <r_i_glide_energy>
+-41.3105068206787
+
+> <r_i_glide_einternal>
+5.2861499786377
+
+> <i_i_glide_confnum>
+71
+
+> <i_i_glide_posenum>
+206
+
+> <r_i_glide_eff_state_penalty>
+-0
+
+$$$$

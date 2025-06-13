@@ -1,0 +1,242 @@
+5G4O_ligand
+                    3D
+ Schrodinger Suite 2023-4.
+ 40 42  0  0  1  0            999 V2000
+   91.7246   93.4661  -44.1337 C   0  0  0  0  0  0
+   92.0009   93.6341  -42.7754 N   0  0  0  0  0  0
+   91.3255   94.7121  -44.6973 C   0  0  0  0  0  0
+   92.1681  100.0631  -42.4350 N   0  3  0  0  0  0
+   91.3689   95.6793  -43.6364 C   0  0  0  0  0  0
+   91.7679   94.9768  -42.4635 C   0  0  0  0  0  0
+   91.7681   92.3026  -44.9293 C   0  0  0  0  0  0
+   91.3756   92.3465  -46.2779 C   0  0  0  0  0  0
+   90.9678   93.5678  -46.8424 C   0  0  0  0  0  0
+   90.9677   94.7420  -46.0646 C   0  0  0  0  0  0
+   91.8763   95.6484  -41.2291 C   0  0  0  0  0  0
+   91.6357   97.0318  -41.1518 C   0  0  0  0  0  0
+   91.2459   97.7443  -42.3027 C   0  0  0  0  0  0
+   91.1027   97.0647  -43.5313 C   0  0  0  0  0  0
+   92.4433   92.5997  -41.8553 C   0  0  0  0  0  0
+   93.9732   92.5234  -41.8013 C   0  0  0  0  0  0
+   90.9558   99.2328  -42.2085 C   0  0  0  0  0  0
+   92.5827  100.1285  -43.8564 C   0  0  0  0  0  0
+   92.0425  101.4105  -41.8343 C   0  0  0  0  0  0
+   92.0717   91.3603  -44.4977 H   0  0  0  0  0  0
+   91.3852   91.4442  -46.8730 H   0  0  0  0  0  0
+   90.6582   93.6020  -47.8770 H   0  0  0  0  0  0
+   90.6598   95.6743  -46.5117 H   0  0  0  0  0  0
+   92.1824   95.1022  -40.3512 H   0  0  0  0  0  0
+   91.7448   97.5412  -40.2054 H   0  0  0  0  0  0
+   90.7843   97.6007  -44.4128 H   0  0  0  0  0  0
+   92.0367   92.8045  -40.8643 H   0  0  0  0  0  0
+   92.0214   91.6443  -42.1684 H   0  0  0  0  0  0
+   90.1674   99.5081  -42.9114 H   0  0  0  0  0  0
+   90.5571   99.4325  -41.2119 H   0  0  0  0  0  0
+   91.7971  100.5609  -44.4776 H   0  0  0  0  0  0
+   93.4800  100.7399  -43.9654 H   0  0  0  0  0  0
+   92.8286   99.1390  -44.2430 H   0  0  0  0  0  0
+   91.2307  101.9728  -42.2975 H   0  0  0  0  0  0
+   91.8429  101.3424  -40.7649 H   0  0  0  0  0  0
+   92.9677  101.9768  -41.9592 H   0  0  0  0  0  0
+   94.2983   91.7125  -41.1478 H   0  0  0  0  0  0
+   94.3932   92.3423  -42.7918 H   0  0  0  0  0  0
+   94.4052   93.4506  -41.4250 H   0  0  0  0  0  0
+   92.9372   99.6107  -41.9502 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  2  0  0  0
+  1  7  1  0  0  0
+  2  6  1  0  0  0
+  2 15  1  0  0  0
+  3  5  1  0  0  0
+  3 10  1  0  0  0
+  4 17  1  0  0  0
+  4 18  1  0  0  0
+  4 19  1  0  0  0
+  4 40  1  0  0  0
+  5  6  2  0  0  0
+  5 14  1  0  0  0
+  6 11  1  0  0  0
+  7  8  2  0  0  0
+  7 20  1  0  0  0
+  8  9  1  0  0  0
+  8 21  1  0  0  0
+  9 10  2  0  0  0
+  9 22  1  0  0  0
+ 10 23  1  0  0  0
+ 11 12  2  0  0  0
+ 11 24  1  0  0  0
+ 12 13  1  0  0  0
+ 12 25  1  0  0  0
+ 13 14  2  0  0  0
+ 13 17  1  0  0  0
+ 14 26  1  0  0  0
+ 15 16  1  0  0  0
+ 15 27  1  0  0  0
+ 15 28  1  0  0  0
+ 16 37  1  0  0  0
+ 16 38  1  0  0  0
+ 16 39  1  0  0  0
+ 17 29  1  0  0  0
+ 17 30  1  0  0  0
+ 18 31  1  0  0  0
+ 18 32  1  0  0  0
+ 18 33  1  0  0  0
+ 19 34  1  0  0  0
+ 19 35  1  0  0  0
+ 19 36  1  0  0  0
+M  CHG  1   4   1
+M  END
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_i_glide_confnum>
+2
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_posenum>
+162
+
+> <i_i_glide_rotatable_bonds>
+3
+
+> <i_lp_mmshare_version>
+64132
+
+> <i_m_source_file_index>
+1
+
+> <PDB EXPDTA TEMPERATURE>
+100
+
+> <Source File Index>
+1
+
+> <entry id>
+11
+
+> <i_f3d_flags>
+0
+
+> <prepared>
+1
+
+> <stars>
+0
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.156822
+
+> <r_epik_Ionization_Penalty>
+0.0784
+
+> <r_epik_Ionization_Penalty_Charging>
+0.0784
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+0.0784
+
+> <r_i_docking_score>
+-8.78288
+
+> <r_i_glide_ecoul>
+-7.88413
+
+> <r_i_glide_eff_state_penalty>
+0.0784112
+
+> <r_i_glide_einternal>
+0.235833
+
+> <r_i_glide_emodel>
+-65.9355
+
+> <r_i_glide_energy>
+-41.422
+
+> <r_i_glide_erotb>
+0.273656
+
+> <r_i_glide_esite>
+-0.0130125
+
+> <r_i_glide_evdw>
+-33.5378
+
+> <r_i_glide_gscore>
+-8.86129
+
+> <r_i_glide_hbond>
+0
+
+> <r_i_glide_ligand_efficiency>
+-0.462257
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.22665
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.23349
+
+> <r_i_glide_lipo>
+-4.1308
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-2.13162
+
+> <r_lp_Energy>
+16.0788
+
+> <PDB RESOLUTION>
+1.48
+
+> <Potential Energy-S-OPLS>
+-663.841
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1jKGMxMiljM2MobjJbQ0gyXVtDSDNdKVtjSF1bY0hdYyhbY0hdMylbQ0gyXU4oW0NIM10pW0NIM10=
+
+> <s_i_glide_gridfile>
+glide-grid_5g4o
+
+> <s_lp_Force_Field>
+OPLS_2005
+
+> <s_lp_Variant>
+5G4O_ligand-1
+
+> <s_m_source_file>
+/home/user-home/yujie/0_PBCNetv2/data_BindingDB/F/docking/5G4O_ligand.sdf
+
+> <PDB EXPDTA>
+X-RAY DIFFRACTION
+
+> <PDB ID>
+5G4O
+
+> <PDB TITLE>
+CRYSTAL STRUCTURE OF THE P53 CANCER MUTANT Y220C IN COMPLEX WITH A TRIFLUORINATED DERIVATIVE OF THE SMALL MOLECULE STABILIZER PHIKAN083
+
+> <Source File>
+5g4o.pdb
+
+> <Source Path>
+C:\Users\yujie\Desktop\F
+
+$$$$

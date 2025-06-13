@@ -1,0 +1,225 @@
+/home/yujie/leadopt/data/result/selection/sEH/lig_7e.sdf:1
+                    3D
+ Schrodinger Suite 2020-3.
+ 48 51  0  0  1  0            999 V2000
+   -1.3291  -15.3334   25.6944 O   0  0  0  0  0  0
+   -1.0172  -14.8151   26.7674 C   0  0  0  0  0  0
+    0.0723  -13.7683   26.8227 C   0  0  0  0  0  0
+    0.8316  -13.5185   25.6695 C   0  0  0  0  0  0
+    1.7823  -12.5039   25.5981 C   0  0  0  0  0  0
+    1.9567  -11.7277   26.7457 C   0  0  0  0  0  0
+    2.7472  -10.6269   27.0122 N   0  0  0  0  0  0
+    3.7181   -9.9953   26.1310 C   0  0  0  0  0  0
+    5.0936  -10.6431   26.1990 C   0  0  0  0  0  0
+    5.8581  -10.5327   27.3639 C   0  0  0  0  0  0
+    7.1317  -11.0894   27.4274 C   0  0  0  0  0  0
+    7.8710  -10.9348   28.5455 F   0  0  0  0  0  0
+    7.6428  -11.7893   26.3354 C   0  0  0  0  0  0
+    6.8786  -11.9228   25.1750 C   0  0  0  0  0  0
+    5.6084  -11.3469   25.1046 C   0  0  0  0  0  0
+    2.6384  -10.2263   28.2965 N   0  0  0  0  0  0
+    1.7465  -10.9998   28.8596 C   0  0  0  0  0  0
+    1.2474  -11.9730   27.9433 C   0  0  0  0  0  0
+    0.2995  -13.0026   27.9799 C   0  0  0  0  0  0
+   -1.6909  -15.0823   27.8955 N   0  0  0  0  0  0
+   -2.8600  -15.9590   28.0023 C   0  0  0  0  0  0
+   -2.5761  -17.4675   28.0702 C   0  0  0  0  0  0
+   -3.5345  -18.4198   27.6496 C   0  0  0  0  0  0
+   -4.8954  -18.0035   27.0706 C   0  0  0  0  0  0
+   -4.7231  -17.3988   25.8952 F   0  0  0  0  0  0
+   -5.7097  -19.0418   26.8770 F   0  0  0  0  0  0
+   -5.5143  -17.1639   27.8964 F   0  0  0  0  0  0
+   -3.2382  -19.7860   27.7772 C   0  0  0  0  0  0
+   -2.0187  -20.2107   28.2966 C   0  0  0  0  0  0
+   -1.0719  -19.2742   28.6962 C   0  0  0  0  0  0
+   -1.3436  -17.9144   28.5715 C   0  0  0  0  0  0
+    0.6712  -14.1082   24.7771 H   0  0  0  0  0  0
+    2.3316  -12.3169   24.6869 H   0  0  0  0  0  0
+    3.3275  -10.0396   25.1129 H   0  0  0  0  0  0
+    3.7806   -8.9344   26.3711 H   0  0  0  0  0  0
+    5.4747   -9.9999   28.2216 H   0  0  0  0  0  0
+    8.6305  -12.2223   26.3891 H   0  0  0  0  0  0
+    7.2734  -12.4643   24.3278 H   0  0  0  0  0  0
+    5.0294  -11.4479   24.1976 H   0  0  0  0  0  0
+    1.4640  -10.8632   29.8929 H   0  0  0  0  0  0
+   -0.2646  -13.1631   28.8866 H   0  0  0  0  0  0
+   -1.3291  -14.7535   28.7964 H   0  0  0  0  0  0
+   -3.5246  -15.7328   27.1695 H   0  0  0  0  0  0
+   -3.3965  -15.6804   28.9114 H   0  0  0  0  0  0
+   -3.9516  -20.5366   27.4685 H   0  0  0  0  0  0
+   -1.8061  -21.2658   28.3890 H   0  0  0  0  0  0
+   -0.1273  -19.6034   29.1071 H   0  0  0  0  0  0
+   -0.5964  -17.2070   28.9030 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2 20  1  0  0  0
+  3 19  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  4 32  1  0  0  0
+  5  6  2  0  0  0
+  5 33  1  0  0  0
+  6  7  1  0  0  0
+  6 18  1  0  0  0
+  7  8  1  0  0  0
+  7 16  1  0  0  0
+  8  9  1  0  0  0
+  8 34  1  0  0  0
+  8 35  1  0  0  0
+  9 15  1  0  0  0
+  9 10  2  0  0  0
+ 10 11  1  0  0  0
+ 10 36  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+ 13 14  1  0  0  0
+ 13 37  1  0  0  0
+ 14 15  2  0  0  0
+ 14 38  1  0  0  0
+ 15 39  1  0  0  0
+ 16 17  2  0  0  0
+ 17 18  1  0  0  0
+ 17 40  1  0  0  0
+ 18 19  2  0  0  0
+ 19 41  1  0  0  0
+ 20 21  1  0  0  0
+ 20 42  1  0  0  0
+ 21 22  1  0  0  0
+ 21 43  1  0  0  0
+ 21 44  1  0  0  0
+ 22 31  1  0  0  0
+ 22 23  2  0  0  0
+ 23 24  1  0  0  0
+ 23 28  1  0  0  0
+ 24 25  1  0  0  0
+ 24 26  1  0  0  0
+ 24 27  1  0  0  0
+ 28 29  2  0  0  0
+ 28 45  1  0  0  0
+ 29 30  1  0  0  0
+ 29 46  1  0  0  0
+ 30 31  2  0  0  0
+ 30 47  1  0  0  0
+ 31 48  1  0  0  0
+M  END
+> <s_m_source_file>
+/home/yujie/leadopt/data/result/selection/sEH/lig_7e.sdf
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1jKEMoRikoRilGKWMxW0NIMl1bTkhdQyg9TyljKFtjSF1bY0hdMilbY0hdYyhjMjMpW2NIXW5uM1tDSDJdYzRbY0hdYyhGKVtjSF1bY0hdW2NIXTQ=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+37.1776
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/sEH/lig_7e.sdf:1-1
+
+> <s_i_glide_gridfile>
+glide-grid_sEH
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_rotatable_bonds>
+7
+
+> <r_i_docking_score>
+-11.8962957482222
+
+> <r_i_glide_ligand_efficiency>
+-0.383751475749102
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.20550945986497
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.68297926890466
+
+> <r_i_glide_gscore>
+-11.8962957482222
+
+> <r_i_glide_lipo>
+-4.46028746710864
+
+> <r_i_glide_hbond>
+-0.72
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-2.82886914448699
+
+> <r_i_glide_evdw>
+-48.0714950561523
+
+> <r_i_glide_ecoul>
+-12.904821395874
+
+> <r_i_glide_erotb>
+0.652158825562193
+
+> <r_i_glide_esite>
+-0.2
+
+> <r_i_glide_emodel>
+-107.529443279572
+
+> <r_i_glide_energy>
+-60.9763164520264
+
+> <r_i_glide_einternal>
+1.84703528881073
+
+> <i_i_glide_confnum>
+12
+
+> <i_i_glide_posenum>
+282
+
+> <r_i_glide_eff_state_penalty>
+-0
+
+$$$$

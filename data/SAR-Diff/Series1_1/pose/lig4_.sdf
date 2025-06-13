@@ -1,0 +1,211 @@
+lig27
+                    3D
+ Schrodinger Suite 2023-4.
+ 41 44  0  0  1  0            999 V2000
+   41.7260  -29.4551  -20.1383 C   0  0  0  0  0  0
+   41.0208  -29.3491  -18.7851 C   0  0  2  0  0  0
+   42.0567  -29.2380  -17.6249 C   0  0  0  0  0  0
+   42.6821  -30.5517  -17.3383 N   0  0  0  0  0  0
+   42.0337  -31.7417  -17.2913 C   0  0  0  0  0  0
+   42.6282  -32.7588  -16.9384 O   0  0  0  0  0  0
+   40.6641  -31.6113  -17.7385 C   0  0  0  0  0  0
+   39.6812  -32.5657  -17.6246 N   0  0  0  0  0  0
+   38.5343  -32.1756  -18.2823 C   0  0  0  0  0  0
+   37.2960  -32.8049  -18.4132 C   0  0  0  0  0  0
+   36.3414  -32.1657  -19.2033 C   0  0  0  0  0  0
+   36.5894  -30.9606  -19.8772 C   0  0  0  0  0  0
+   35.4992  -30.3672  -20.7584 C   0  0  0  0  0  0
+   34.4332  -30.9658  -20.9106 O   0  0  0  0  0  0
+   35.7792  -29.1792  -21.3383 N   0  0  0  0  0  0
+   34.9993  -28.3894  -22.2046 C   0  0  0  0  0  0
+   33.7251  -28.7357  -22.6896 C   0  0  0  0  0  0
+   33.0406  -27.8776  -23.5495 C   0  0  0  0  0  0
+   33.6137  -26.6675  -23.9350 C   0  0  0  0  0  0
+   34.8785  -26.3170  -23.4637 C   0  0  0  0  0  0
+   35.5946  -24.8226  -23.9464 Cl  0  0  0  0  0  0
+   35.5651  -27.1742  -22.6040 C   0  0  0  0  0  0
+   37.8443  -30.3371  -19.7186 C   0  0  0  0  0  0
+   38.8220  -30.9280  -18.9002 C   0  0  0  0  0  0
+   40.1551  -30.5656  -18.4973 C   0  0  0  0  0  0
+   39.8327  -33.4349  -17.1298 H   0  0  0  0  0  0
+   41.0435  -29.7657  -20.9337 H   0  0  0  0  0  0
+   42.5357  -30.1843  -20.1133 H   0  0  0  0  0  0
+   42.1687  -28.4987  -20.4204 H   0  0  0  0  0  0
+   40.4077  -28.4459  -18.7815 H   0  0  0  0  0  0
+   42.8378  -28.5152  -17.8668 H   0  0  0  0  0  0
+   41.5815  -28.8655  -16.7193 H   0  0  0  0  0  0
+   43.6611  -30.5656  -17.0692 H   0  0  0  0  0  0
+   37.0785  -33.7505  -17.9364 H   0  0  0  0  0  0
+   35.3805  -32.6534  -19.3065 H   0  0  0  0  0  0
+   36.6776  -28.7842  -21.1169 H   0  0  0  0  0  0
+   33.2351  -29.6548  -22.4192 H   0  0  0  0  0  0
+   32.0561  -28.1491  -23.9064 H   0  0  0  0  0  0
+   33.0780  -26.0022  -24.5953 H   0  0  0  0  0  0
+   36.5482  -26.8849  -22.2583 H   0  0  0  0  0  0
+   38.0822  -29.4024  -20.2037 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 27  1  0  0  0
+  1 28  1  0  0  0
+  1 29  1  0  0  0
+  2 25  1  0  0  0
+  2  3  1  0  0  0
+  2 30  1  0  0  0
+  3  4  1  0  0  0
+  3 31  1  0  0  0
+  3 32  1  0  0  0
+  4  5  1  0  0  0
+  4 33  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  7 25  2  0  0  0
+  7  8  1  0  0  0
+  8 26  1  0  0  0
+  8  9  1  0  0  0
+  9 24  1  0  0  0
+  9 10  2  0  0  0
+ 10 11  1  0  0  0
+ 10 34  1  0  0  0
+ 11 12  2  0  0  0
+ 11 35  1  0  0  0
+ 12 13  1  0  0  0
+ 12 23  1  0  0  0
+ 13 14  2  0  0  0
+ 13 15  1  0  0  0
+ 15 16  1  0  0  0
+ 15 36  1  0  0  0
+ 16 22  1  0  0  0
+ 16 17  2  0  0  0
+ 17 18  1  0  0  0
+ 17 37  1  0  0  0
+ 18 19  2  0  0  0
+ 18 38  1  0  0  0
+ 19 20  1  0  0  0
+ 19 39  1  0  0  0
+ 20 21  1  0  0  0
+ 20 22  2  0  0  0
+ 22 40  1  0  0  0
+ 23 24  2  0  0  0
+ 23 41  1  0  0  0
+ 24 25  1  0  0  0
+M  END
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_lignum>
+30
+
+> <i_i_glide_posenum>
+263
+
+> <i_i_glide_rotatable_bonds>
+3
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_m_source_file_index>
+28
+
+> <i_f3d_flags>
+0
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <r_epik_Ionization_Penalty>
+0
+
+> <r_epik_Ionization_Penalty_Charging>
+0
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+-0
+
+> <r_i_docking_score>
+-9.33505
+
+> <r_i_glide_ecoul>
+-9.43832
+
+> <r_i_glide_eff_state_penalty>
+-0
+
+> <r_i_glide_einternal>
+0.0298058
+
+> <r_i_glide_emodel>
+-89.0884
+
+> <r_i_glide_energy>
+-57.8425
+
+> <r_i_glide_erotb>
+0.457784
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_evdw>
+-48.4041
+
+> <r_i_glide_gscore>
+-9.33505
+
+> <r_i_glide_hbond>
+-0.542233
+
+> <r_i_glide_ligand_efficiency>
+-0.373402
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.21269
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.09183
+
+> <r_i_glide_lipo>
+-3.54195
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-1.8727
+
+> <r_lp_Energy>
+38.3653
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+Tz1DMVtOSF1bQ0gyXVtDQEBIXShbQ0gzXSljKGMxMiljM2MoW25IXTIpW2NIXVtjSF1jKFtjSF0zKUMoPU8pW05IXWM0W2NIXVtjSF1bY0hdYyhDbClbY0hdNA==
+
+> <s_i_glide_gridfile>
+Sries15708-001-gridgen
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <s_lp_Variant>
+lig27-1
+
+> <s_m_source_file>
+/home/user-home/yujie/0_PBCNetv2/data/0_0_high_sim/0_noncov/Sries15708/ligprep_input.csv
+
+$$$$

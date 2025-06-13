@@ -1,0 +1,284 @@
+3OQK_ligand
+                    3D
+ Schrodinger Suite 2023-4.
+ 57 61  0  0  1  0            999 V2000
+  -13.4333  -21.5925   -3.6531 C   0  0  0  0  0  0
+   -9.7231  -21.9071   -0.4743 O   0  0  0  0  0  0
+  -12.1527  -21.0181   -3.7690 C   0  0  0  0  0  0
+  -11.0278  -21.6928   -3.2531 C   0  0  0  0  0  0
+  -11.1842  -22.9430   -2.6144 C   0  0  0  0  0  0
+  -12.4660  -23.5146   -2.4945 C   0  0  0  0  0  0
+  -13.5867  -22.8424   -3.0199 C   0  0  0  0  0  0
+  -10.0588  -23.5914   -2.0649 N   0  0  0  0  0  0
+   -9.5279  -24.8124   -2.4779 C   0  0  0  0  0  0
+   -8.3588  -25.0319   -1.6890 C   0  0  0  0  0  0
+   -8.2340  -23.9133   -0.7997 C   0  0  0  0  0  0
+   -9.3036  -23.0794   -1.0158 C   0  0  0  0  0  0
+   -9.9267  -25.7297   -3.4703 C   0  0  0  0  0  0
+   -9.1554  -26.8825   -3.7067 C   0  0  0  0  0  0
+   -8.0011  -27.1220   -2.9372 C   0  0  0  0  0  0
+   -7.6073  -26.2070   -1.9414 C   0  0  0  0  0  0
+   -9.3821  -21.6525    0.8230 C   0  0  0  0  0  0
+   -8.4221  -20.6606    1.1024 C   0  0  0  0  0  0
+   -7.9828  -20.4689    2.4225 C   0  0  0  0  0  0
+   -8.5046  -21.2622    3.4628 C   0  0  0  0  0  0
+   -9.5027  -22.2237    3.1964 C   0  0  0  0  0  0
+   -9.9451  -22.4100    1.8729 C   0  0  0  0  0  0
+   -7.0839  -23.7296    0.1316 C   0  0  0  0  0  0
+   -7.0632  -24.4855    1.2633 N   0  0  0  0  0  0
+   -6.2363  -22.8692   -0.1291 O   0  0  0  0  0  0
+   -6.0791  -24.2391    2.3329 C   0  0  0  0  0  0
+   -5.5355  -25.5459    2.9481 C   0  0  0  0  0  0
+   -6.6277  -26.4631    3.3257 N   0  3  0  0  0  0
+   -7.5595  -26.7234    2.2192 C   0  0  0  0  0  0
+   -8.1342  -25.4135    1.6676 C   0  0  0  0  0  0
+  -14.2973  -21.0789   -4.0512 H   0  0  0  0  0  0
+  -12.0346  -20.0592   -4.2509 H   0  0  0  0  0  0
+  -10.0473  -21.2461   -3.3367 H   0  0  0  0  0  0
+  -12.5921  -24.4638   -1.9962 H   0  0  0  0  0  0
+  -14.5656  -23.2906   -2.9375 H   0  0  0  0  0  0
+  -10.8149  -25.5362   -4.0554 H   0  0  0  0  0  0
+   -9.4469  -27.5789   -4.4793 H   0  0  0  0  0  0
+   -7.4107  -28.0089   -3.1140 H   0  0  0  0  0  0
+   -6.7128  -26.4029   -1.3675 H   0  0  0  0  0  0
+   -7.9974  -20.0778    0.2974 H   0  0  0  0  0  0
+   -7.2270  -19.7280    2.6340 H   0  0  0  0  0  0
+   -8.1369  -21.1248    4.4682 H   0  0  0  0  0  0
+  -10.0864  -23.0667    4.3154 C   0  0  0  0  0  0
+  -10.6882  -23.1626    1.6520 H   0  0  0  0  0  0
+   -6.5633  -23.6367    3.1034 H   0  0  0  0  0  0
+   -5.2252  -23.6630    1.9823 H   0  0  0  0  0  0
+   -4.8951  -26.0523    2.2272 H   0  0  0  0  0  0
+   -4.9239  -25.3337    3.8255 H   0  0  0  0  0  0
+   -6.2662  -27.3707    3.5980 H   0  0  0  0  0  0
+   -7.0400  -27.2635    1.4281 H   0  0  0  0  0  0
+   -8.3559  -27.3678    2.5874 H   0  0  0  0  0  0
+   -8.8334  -25.6657    0.8743 H   0  0  0  0  0  0
+   -8.7294  -24.9358    2.4408 H   0  0  0  0  0  0
+   -9.5916  -22.8645    5.2657 H   0  0  0  0  0  0
+  -11.1515  -22.8628    4.4295 H   0  0  0  0  0  0
+   -9.9759  -24.1297    4.1081 H   0  0  0  0  0  0
+   -7.1552  -26.1081    4.1191 H   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  7  1  0  0  0
+  1 31  1  0  0  0
+  2 12  1  0  0  0
+  2 17  1  0  0  0
+  3  4  1  0  0  0
+  3 32  1  0  0  0
+  4  5  2  0  0  0
+  4 33  1  0  0  0
+  5  6  1  0  0  0
+  5  8  1  0  0  0
+  6  7  2  0  0  0
+  6 34  1  0  0  0
+  7 35  1  0  0  0
+  8  9  1  0  0  0
+  8 12  1  0  0  0
+  9 10  1  0  0  0
+  9 13  2  0  0  0
+ 10 11  1  0  0  0
+ 10 16  2  0  0  0
+ 11 12  2  0  0  0
+ 11 23  1  0  0  0
+ 13 14  1  0  0  0
+ 13 36  1  0  0  0
+ 14 15  2  0  0  0
+ 14 37  1  0  0  0
+ 15 16  1  0  0  0
+ 15 38  1  0  0  0
+ 16 39  1  0  0  0
+ 17 18  2  0  0  0
+ 17 22  1  0  0  0
+ 18 19  1  0  0  0
+ 18 40  1  0  0  0
+ 19 20  2  0  0  0
+ 19 41  1  0  0  0
+ 20 21  1  0  0  0
+ 20 42  1  0  0  0
+ 21 22  2  0  0  0
+ 21 43  1  0  0  0
+ 22 44  1  0  0  0
+ 23 24  1  0  0  0
+ 23 25  2  0  0  0
+ 24 26  1  0  0  0
+ 24 30  1  0  0  0
+ 26 27  1  0  0  0
+ 26 45  1  0  0  0
+ 26 46  1  0  0  0
+ 27 28  1  0  0  0
+ 27 47  1  0  0  0
+ 27 48  1  0  0  0
+ 28 29  1  0  0  0
+ 28 49  1  0  0  0
+ 28 57  1  0  0  0
+ 29 30  1  0  0  0
+ 29 50  1  0  0  0
+ 29 51  1  0  0  0
+ 30 52  1  0  0  0
+ 30 53  1  0  0  0
+ 43 54  1  0  0  0
+ 43 55  1  0  0  0
+ 43 56  1  0  0  0
+M  CHG  1  28   1
+M  END
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_i_glide_confnum>
+149
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_posenum>
+378
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <i_lp_mmshare_version>
+64132
+
+> <i_m_source_file_index>
+1
+
+> <PDB EXPDTA TEMPERATURE>
+100
+
+> <Source File Index>
+1
+
+> <entry id>
+15
+
+> <i_f3d_flags>
+0
+
+> <prepared>
+1
+
+> <stars>
+0
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.453125
+
+> <r_epik_Ionization_Penalty>
+0.2266
+
+> <r_epik_Ionization_Penalty_Charging>
+0.2266
+
+> <r_epik_Ionization_Penalty_Neutral>
+0
+
+> <r_epik_State_Penalty>
+0.2266
+
+> <r_i_docking_score>
+-8.83372
+
+> <r_i_glide_ecoul>
+-12.4834
+
+> <r_i_glide_eff_state_penalty>
+0.226562
+
+> <r_i_glide_einternal>
+2.45846
+
+> <r_i_glide_emodel>
+-110.669
+
+> <r_i_glide_energy>
+-63.0925
+
+> <r_i_glide_erotb>
+0.579444
+
+> <r_i_glide_esite>
+-0.187103
+
+> <r_i_glide_evdw>
+-50.6091
+
+> <r_i_glide_gscore>
+-9.06029
+
+> <r_i_glide_hbond>
+-0.643225
+
+> <r_i_glide_ligand_efficiency>
+-0.284959
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.99228
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.895164
+
+> <r_i_glide_lipo>
+-3.13044
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-1.27601
+
+> <r_lp_Energy>
+61.5307
+
+> <r_lp_tautomer_probability>
+1
+
+> <PDB EXPDTA PH>
+4.5
+
+> <PDB RESOLUTION>
+2.9
+
+> <Potential Energy-S-OPLS>
+-1121.13
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzEtbjJjKE9jM1tjSF1bY0hdW2NIXWMoW2NIXTMpW0NIM10pYyhjKGMyNClbY0hdW2NIXVtjSF1bY0hdNClDKD1PKU41W0NIMl1bQ0gyXVtOSF1bQ0gyXVtDSDJdNQ==
+
+> <s_i_glide_gridfile>
+glide-grid_3oqk
+
+> <s_lp_Force_Field>
+OPLS_2005
+
+> <s_lp_Variant>
+3OQK_ligand-1
+
+> <s_m_source_file>
+/home/user-home/yujie/0_PBCNetv2/data_BindingDB/F/docking/3OQK_ligand.sdf
+
+> <PDB EXPDTA>
+X-RAY DIFFRACTION
+
+> <PDB ID>
+3OQK
+
+> <PDB TITLE>
+CRYSTAL STRUCTURE ANALYSIS OF RENIN-INDOLE-PIPERAZIN INHIBITOR COMPLEXES
+
+> <Source File>
+3oqk.pdb
+
+> <Source Path>
+C:\Users\yujie\Desktop\F
+
+$$$$

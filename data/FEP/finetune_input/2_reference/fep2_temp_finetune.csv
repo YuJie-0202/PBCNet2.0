@@ -1,0 +1,2 @@
+file_name,again_number,reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+syk,4,1,/home/yujie/leadopt/data/test_set_fep+_graph_rmH_I/syk/lig_syk_CHEMBL3265035.pkl,/home/yujie/leadopt/data/test_set_fep+_graph_rmH_I/syk/lig_syk_CHEMBL3265012.pkl,0.3899999999999988,8.12,7.73,1,25,25,lig_syk_CHEMBL3265035,lig_syk_CHEMBL3265012

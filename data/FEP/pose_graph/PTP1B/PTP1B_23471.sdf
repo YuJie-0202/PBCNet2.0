@@ -1,0 +1,201 @@
+PTP1B_23471
+                    3D
+ Schrodinger Suite 2020-3.
+ 35 36  0  0  1  0            999 V2000
+   51.3141    7.0216    2.2358 C   0  0  0  0  0  0
+   50.4782    8.1700    2.2348 O   0  0  0  0  0  0
+   49.2749    8.1416    1.6287 C   0  0  0  0  0  0
+   48.8264    7.1713    1.0175 O   0  0  0  0  0  0
+   48.6726    9.3778    1.8113 N   0  0  0  0  0  0
+   47.4212    9.8447    1.3730 C   0  0  0  0  0  0
+   46.4579    9.0613    0.7200 C   0  0  0  0  0  0
+   45.2365    9.6230    0.3456 C   0  0  0  0  0  0
+   44.9584   10.9581    0.6413 C   0  0  0  0  0  0
+   45.9076   11.7588    1.2897 C   0  0  0  0  0  0
+   45.6163   13.1916    1.6277 C   0  0  0  0  0  0
+   44.5810   14.1305    0.5808 S   0  0  0  0  0  0
+   44.7724   15.5685    1.5456 C   0  0  0  0  0  0
+   44.1131   16.8175    1.1412 C   0  0  0  0  0  0
+   43.5984   16.8796    0.0050 O   0  0  0  0  0  0
+   44.1100   17.7768    1.9466 O   0  5  0  0  0  0
+   45.5793   15.2997    2.6471 C   0  0  0  0  0  0
+   45.8648   16.2121    3.6192 O   0  0  0  0  0  0
+   47.1008   16.8912    3.4059 C   0  0  0  0  0  0
+   47.4360   17.6705    4.6835 C   0  0  0  0  0  0
+   48.5783   18.1769    4.7465 O   0  0  0  0  0  0
+   46.5640   17.7769    5.5810 O   0  5  0  0  0  0
+   46.0558   13.9801    2.6962 C   0  0  0  0  0  0
+   47.1845   13.3786    4.1139 Br  0  0  0  0  0  0
+   47.1405   11.1881    1.6313 C   0  0  0  0  0  0
+   52.2485    7.2437    2.7519 H   0  0  0  0  0  0
+   50.8311    6.1888    2.7485 H   0  0  0  0  0  0
+   51.5532    6.7100    1.2181 H   0  0  0  0  0  0
+   49.2135   10.0379    2.3525 H   0  0  0  0  0  0
+   46.6283    8.0191    0.5017 H   0  0  0  0  0  0
+   44.4968    9.0156   -0.1547 H   0  0  0  0  0  0
+   43.9957   11.3655    0.3676 H   0  0  0  0  0  0
+   46.9967   17.5927    2.5760 H   0  0  0  0  0  0
+   47.9117   16.1965    3.1759 H   0  0  0  0  0  0
+   47.8973   11.7938    2.1042 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 26  1  0  0  0
+  1 27  1  0  0  0
+  1 28  1  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  5  6  1  0  0  0
+  5 29  1  0  0  0
+  6 25  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  7 30  1  0  0  0
+  8  9  2  0  0  0
+  8 31  1  0  0  0
+  9 10  1  0  0  0
+  9 32  1  0  0  0
+ 10 11  1  0  0  0
+ 10 25  2  0  0  0
+ 11 23  2  0  0  0
+ 11 12  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 13 17  2  0  0  0
+ 14 15  2  0  0  0
+ 14 16  1  0  0  0
+ 17 18  1  0  0  0
+ 17 23  1  0  0  0
+ 18 19  1  0  0  0
+ 19 20  1  0  0  0
+ 19 33  1  0  0  0
+ 19 34  1  0  0  0
+ 20 21  2  0  0  0
+ 20 22  1  0  0  0
+ 23 24  1  0  0  0
+ 25 35  1  0  0  0
+M  CHG  2  16  -1  22  -1
+M  END
+> <s_m_source_file>
+/home/user-home/yujie/0_PBCNetv2/data/FEP/PTP1B/inp_ligprep.csv
+
+> <i_m_source_file_index>
+8
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIM11PQyg9TylbTkhdYzFbY0hdW2NIXVtjSF1jKFtjSF0xKS1jMnNjKEMoPU8pW09IXSljKGMyQnIpT1tDSDJdQyg9TylbT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+9.21585e-05
+
+> <i_epik_Tot_Q>
+-2
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+36.3047
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+PTP1B_23471-1
+
+> <s_i_glide_gridfile>
+PTP1B-001-gridgen
+
+> <i_i_glide_lignum>
+9
+
+> <i_i_glide_rotatable_bonds>
+8
+
+> <r_i_docking_score>
+-7.84181957420739
+
+> <r_i_glide_ligand_efficiency>
+-0.313672782968295
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.917184780409789
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.85874623945642
+
+> <r_i_glide_gscore>
+-7.84181957420739
+
+> <r_i_glide_lipo>
+-1.34003554724861
+
+> <r_i_glide_hbond>
+-1.21779063861226
+
+> <r_i_glide_metal>
+-0
+
+> <r_i_glide_rewards>
+-0.556917460486533
+
+> <r_i_glide_evdw>
+-35.815013885498
+
+> <r_i_glide_ecoul>
+-22.7224750518799
+
+> <r_i_glide_erotb>
+0.54158703243174
+
+> <r_i_glide_esite>
+-0.069541008234837
+
+> <r_i_glide_emodel>
+-109.616548824191
+
+> <r_i_glide_energy>
+-58.5374889373779
+
+> <r_i_glide_einternal>
+11.3069276809692
+
+> <i_i_glide_confnum>
+159
+
+> <i_i_glide_posenum>
+161
+
+> <r_i_glide_eff_state_penalty>
+-0
+
+$$$$
