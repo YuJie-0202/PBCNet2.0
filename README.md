@@ -81,7 +81,7 @@ Custom Data: Replace paths in relevant files to use your own data.
 ### 6. Retraining the PBNCet2.0
 1. Download training data and input file ``training_clip_862W.zip`` from Zendo(https://zenodo.org/records/15656365) and convert SDF/PDB files to PKL format using ``./Graph2pickle.py``.
 
-2. Run ``./model_code/run_train.sh``.。
+2. Run ``./model_code/run_train.sh``.
 
 ### 7. License
 MIT
