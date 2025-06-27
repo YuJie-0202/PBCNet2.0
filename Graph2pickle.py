@@ -385,6 +385,8 @@ if __name__ == "__main__":
     data_list = []
 
     sys = ['Jnk1']
+
+    # should be changed accordingly
     fep = [f'/home/user-home/yujie/0_PBCNetv2/data/FEP/{i}/pose/' for i in sys]
 
     for s in fep:
