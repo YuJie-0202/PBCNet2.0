@@ -2,7 +2,8 @@
 Implementation of PBCNet2.0, by Jie Yu and Xia Sheng.
 
 This repository contains all code, instructions and model weights necessary to make predictions of relative binding affinity by PBCNet2.0, eval PBCNet2.0 or to retrain a new model.
-![image](https://github.com/user-attachments/assets/270d9a49-93ff-47e0-b027-c09ff17943c2)
+![Figure1_模型框架 v4_页面_1](https://github.com/user-attachments/assets/c4cd8c7a-7a40-4ea3-a2e2-f24abc64a433)
+
 
 
 
@@ -29,18 +30,21 @@ CUDA Version: 11.4
 You can follow the instructions to setup the environment (Please select the appropriate version of the software based on your hardware during installation):
 ```
 conda create --name pbcnet python=3.8
-conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+pip3 install torch torchvision torchaudio
 ```
 ```
-pip install dgl==1.0.2 -f https://data.dgl.ai/wheels/cu113/repo.html --no-deps
-pip install numpy
 pip install pandas
 pip install packaging
 pip install PyYAML
 pip install pydantic
 pip install scipy
+pip install matplotlib
+pip install rdkit
 pip install networkx psutil tqdm
+pip install dataloader
 pip install scikit-learn
+pip install bio
+pip install dgl==1.0.2 -f https://data.dgl.ai/wheels/cu113/repo.html --no-deps
 ```
 
 
