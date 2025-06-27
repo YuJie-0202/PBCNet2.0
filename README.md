@@ -74,7 +74,7 @@ Note: Update relevant paths during execution.
    2.1 Download the data.
    2.2 Preprocess SDF/PDB files into PKL format using ``./Graph2pickle.py`` for model compatibility.
 
-### 4. Making prediction with PBCNet2.0
+### 4. Making prediction with PBCNet2.0 [Recommended!]
 See the ``./case/try.ipynb`` notebook for a step-by-step prediction example. Provide ligand (SDF) and protein (PDB) files to run predictions.
 
 
