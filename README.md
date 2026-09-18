@@ -1,4 +1,4 @@
-# Advancing Ligand Binding Affinity Prediction with Cartesian Tensor-Based Deep Learning (Under Review)
+# Advancing Ligand Binding Affinity Prediction with Cartesian Tensor-Based Deep Learning
 Implementation of PBCNet2.0, by Jie Yu and Xia Sheng.
 
 This repository contains all code, instructions and model weights necessary to make predictions of relative binding affinity by PBCNet2.0, eval PBCNet2.0 or to retrain a new model.
